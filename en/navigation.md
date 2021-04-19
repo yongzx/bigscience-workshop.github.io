@@ -23,8 +23,9 @@
 [Description](pages/origin.md)
 [Organization](pages/participants.md)
 [Collaborative tasks](pages/collaborative-tasks.md)
-[Ressources](pages/ressources.md)
-[Forum](pages/forum.md)
+[Kickoff event](pages/kickoff-event.md)
+[Resources](pages/resources.md)
+[Forum](https://bigscience.huggingface.co/forum)
 [FAQ](pages/faq.md)
 
 <!-- A more complex navigation example: ----------------------------------------

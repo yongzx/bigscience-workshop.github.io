@@ -2,7 +2,7 @@
 
 ## Philosophy
 
-The acceleration in Artificial Intelligence (AI) and Natural Language Processing (NLP) will have a fundamental impact on society, as these technologies are at the core of the tools we use on a daily basis. A considerable part of this effort currently stems in NLP from training increasingly larger language models on increasingly larger quantities of texts.
+The acceleration in Artificial Intelligence (AI) and Natural Language Processing (NLP) will have a **fundamental impact on society**, as these technologies are at the core of the tools we use on a daily basis. A considerable part of this effort currently stems in NLP from training increasingly larger language models on increasingly larger quantities of texts.
 
 Unfortunately, the resources necessary to create the best-performing models are found mainly at big technology giants. The stranglehold on this transformative technology poses some problems, from a research advancement, environmental, ethical and societal perspective.
 
@@ -10,13 +10,13 @@ For example, while recent models such as GPT3 (from OpenAI / Microsoft) shows in
 
 The BigScience project aims to demonstrate another way of creating, studying, and sharing large language models and large research artifacts in general within the AI/NLP research communities.
 
-This project takes inspiration from scientific creation schemes existing in other scientific fields, such as CERN and the LHC in particle physics, in which open scientific collaborations facilitate the creation of large-scale artifacts useful for the entire research community.
+This project takes inspiration from scientific creation schemes existing in other scientific fields, such as **CERN and the LHC in particle physics**, in which **open scientific collaborations** facilitate the creation of **large-scale artifacts useful for the entire research community**.
 
-Gathering a much larger research community around the creation of these artifacts makes it possible to consider in advance the many research questions (capabilities, limitations, potential improvements, bias, ethics, environmental impact, general AI/cognitive research landscape) that will be interesting to answer with the created artifacts and to reflect and prepare the tools needed to answer as many of these questions as possible.
+Gathering a much larger research community around the creation of these artifacts makes it possible to consider in advance the many **research questions surrounding large language models** (capabilities, limitations, potential improvements, bias, ethics, environmental impact, general AI/cognitive research landscape) that will be interesting to answer with the created artifacts and to reflect and prepare the tools needed to answer as many of these questions as possible.
 
 The BigScience open-science project is seen as a proposal for an international and inclusive way of performing collaborative research. Beyond the research artifacts created and shared, this project thus aims to bring together all the skills, conditions, and lessons allowing such future experiments of large-scale scientific collaboration.
 
-In the end, it’s thus the deep belief of the founding members that the project’s success will ultimately be measured by its long-term impact on the field of NLP and AI: by proposing an alternative way to conduct large scale science project.
+In the end, it’s thus the deep belief of the founding members that the project’s success will ultimately be measured by its long-term impact on the field of NLP and AI: by proposing **an alternative way to conduct large scale science projects**.
 
 ## Short history
 
@@ -26,7 +26,7 @@ While BigScience quickly gathered a large French research community surrounding 
 
 When the project reached more than 200 participants, the organization of the project started to take shape and it was decided to adopt the structure of a research workshop which appeared as one of the most inclusive, flexible and research-community-focused strucutre for research collaboration.
 
-The project is thus now defined as a one-year long research workshop with a set of collaborative tasks around the creation of a large multilingual dataset and a large multilingual language model as detailed on the main page and in the organization documents as detailed on the [main page](index.md) on in the [organization documents](pages/documents.md).
+The project is thus now defined as a one-year long research workshop with a set of collaborative tasks around the creation of a large multilingual dataset and a large multilingual language model as detailed on the main page and in the organization documents as detailed on the [main page](index.md) on in the [organization documents](pages/resources.md).
 
 ## Founding members
 
@@ -51,7 +51,7 @@ Our group develops research in NLP and multimodal analysis (eg. text/image). The
 
 ### Mathieu Constant (Full professor)
 Université de Lorraine, ATILF - UMR 7118 - CNRS / UL
-Our team is interested in ressources, normalization, annotation and exploitation in NLP.
+Our team is interested in resources, normalization, annotation and exploitation in NLP.
 
 ### Benoît Crabbé (Professor), Marie Candito (Assistant professor), Antoine Simoulin (Phd Student) and members of the LLF
 University of Paris
@@ -179,3 +179,7 @@ PHAM, Minh Quang, CREGO, Josep M., SENELLART, Jean, et al. Fixing translation di
 ### Guillaume Gaudron (Director development @ "Ubisoft La Forge")
 Ubisoft
 Guillaume is building "La Forge France", the French research center of Ubisoft.
+
+## Full members list
+
+After the insception of the project, the list of members has grown significantly and can be seen [here](pages/participants.md).
