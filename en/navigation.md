@@ -21,11 +21,11 @@
 
 [Home](index.md)
 [Description](pages/origin.md)
-[Organization](pages/participants.md)
 [Collaborative tasks](pages/collaborative-tasks.md)
+[Organization](pages/organization.md)
 [Kickoff event](pages/kickoff-event.md)
-[Resources](pages/resources.md)
-[Forum](https://bigscience.huggingface.co/forum)
+[Documents](https://bit.ly/bigscience-drive)
+[Forum](https://discuss.bigscience.huggingface.co)
 [FAQ](pages/faq.md)
 
 <!-- A more complex navigation example: ----------------------------------------
