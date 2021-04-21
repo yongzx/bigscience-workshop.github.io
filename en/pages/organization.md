@@ -15,12 +15,11 @@ To join the workshop as an organizer, please fill this [Google Form](https://doc
 
 To join the worshop as an attendant, please [enter your email here](https://docs.google.com/forms/d/1B92m3EzBUn3cNZ1TptNUC_RyvngLPkS3kiBfg4l0Cu0/prefill) to be informed about coming public events announcement.
 
-
 ## Resources and tools
 
 ### General introduction to the tools
 
-The tool stack is quite simple with at the moment 2 tools:
+The tool stack is quite simple with at the moment with two main tools:
 - a [Google Drive Folder](https://bit.ly/bigscience-drive) hosting all the shared documents
 - a [Discourse Forum](https://bigscience.huggingface.co/forum) hosting the discussions
 
