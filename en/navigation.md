@@ -20,9 +20,9 @@
   -->
 
 [Home](index.md)
-[Description](pages/origin.md)
-[Collaborative tasks](pages/collaborative-tasks.md)
+[Description](pages/description.md)
 [Organization](pages/organization.md)
+[Collaborative tasks](pages/collaborative-tasks.md)
 [Kickoff event](pages/kickoff-event.md)
 [Documents](https://bit.ly/bigscience-drive)
 [Forum](https://discuss.bigscience.huggingface.co)
