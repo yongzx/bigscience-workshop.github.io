@@ -47,11 +47,3 @@ On **April 28th**, a kickoff event will take place online to:
     11. Asynchronous **written questions**: during the full day of Apr 28th
         8. Posted, upvoted on dory.app
         9. Selected and answered in new threads on the forum => possible source for discussions later in the working groups
-
-## Joining the event
-
-The event is open to
-
-- the general public to read and listen to the talks
-- the workshop participants to 
-- You can reply for the event here: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdF68oPkylNhwrnyrdctdcs0831OULetgfYtr-aVxBg053zqA/viewform)

@@ -9,11 +9,11 @@ The orgagnization of the workshop has thus been growing steadily from the [found
 The list of the founding members can be consulted [here](https://docs.google.com/document/d/1-pZxvdQZsRXCKyA3nvTSWhLyuQX5JLIzIE6aTYMmZXw/edit?usp=sharing) and the current list of members (in the process of being updated) can be found [here](https://docs.google.com/spreadsheets/d/1-J6JSUBYVnyCp06vsZODTO-O8vQOFunX3nonfyof_J8/edit?usp=sharing).
 
 The members are participating in Working Groups as detailed on the [Collaborative tasks page](pages/collaborative-tasks.md).
-## Join the workshop
+## Follow the workshop or join the organization
 
-To join the workshop as an organizer, please fill this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdF68oPkylNhwrnyrdctdcs0831OULetgfYtr-aVxBg053zqA/viewform).
+You can **stay informed** about the projet by [entering your email here](https://docs.google.com/forms/d/e/1FAIpQLSe3gYSfNX6aKFwDVKdp-42w2kAldasdFjMJnHCUTdlgo-5lqQ/viewform).
 
-To join the worshop as an attendant, please [enter your email here](https://docs.google.com/forms/d/1B92m3EzBUn3cNZ1TptNUC_RyvngLPkS3kiBfg4l0Cu0/prefill) to be informed about coming public events announcement.
+You can **ask to join the organization of the worshop** by filling this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdF68oPkylNhwrnyrdctdcs0831OULetgfYtr-aVxBg053zqA/viewform?usp=pp_url).
 
 ## Resources and tools
 
