@@ -2,13 +2,13 @@
 
 ## Participants
 
-As detailed on the [Description page](page/description.md), BigScience takes as inspiration large international research collaboration like the LHC or the CERN. The workshop is thus designed and open to all the research community in NLP and AI interested in studying the **research questions surrounding large language models** (capabilities, limitations, potential improvements, bias, ethics, environmental impact, general AI/cognitive research landscape) with a particular focus on the academic research communities.
+As detailed on the [Description page](description.md), BigScience takes as inspiration large international research collaboration like the LHC or the CERN. The workshop is thus designed and open to all the research community in NLP and AI interested in studying the **research questions surrounding large language models** (capabilities, limitations, potential improvements, bias, ethics, environmental impact, general AI/cognitive research landscape) with a particular focus on the academic research communities.
 
 The orgagnization of the workshop has thus been growing steadily from the [founding members](https://docs.google.com/document/d/1-pZxvdQZsRXCKyA3nvTSWhLyuQX5JLIzIE6aTYMmZXw/edit?usp=sharing) in the French NLP and AI community to a very largely international community of researchers.
 
 The list of the founding members can be consulted [here](https://docs.google.com/document/d/1-pZxvdQZsRXCKyA3nvTSWhLyuQX5JLIzIE6aTYMmZXw/edit?usp=sharing) and the current list of members (in the process of being updated) can be found [here](https://docs.google.com/spreadsheets/d/1-J6JSUBYVnyCp06vsZODTO-O8vQOFunX3nonfyof_J8/edit?usp=sharing).
 
-The members are participating in Working Groups as detailed on the [Collaborative tasks page](pages/collaborative-tasks.md).
+The members are participating in Working Groups as detailed on the [Collaborative tasks page](collaborative-tasks.md).
 ## Follow the workshop or join the organization
 
 You can **stay informed** about the projet by [entering your email here](https://docs.google.com/forms/d/e/1FAIpQLSe3gYSfNX6aKFwDVKdp-42w2kAldasdFjMJnHCUTdlgo-5lqQ/viewform).
