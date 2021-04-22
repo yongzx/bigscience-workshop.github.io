@@ -27,6 +27,7 @@
 [Documents](https://bit.ly/bigscience-drive)
 [Forum](https://discuss.bigscience.huggingface.co)
 [FAQ](pages/faq.md)
+[Contact/follow/join](pages/contact.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

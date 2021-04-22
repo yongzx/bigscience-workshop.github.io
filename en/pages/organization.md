@@ -13,7 +13,8 @@ The members are participating in Working Groups as detailed on the [Collaborativ
 
 You can **stay informed** about the projet by [entering your email here](https://docs.google.com/forms/d/e/1FAIpQLSe3gYSfNX6aKFwDVKdp-42w2kAldasdFjMJnHCUTdlgo-5lqQ/viewform).
 
-You can **ask to join the organization of the worshop** by filling this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdF68oPkylNhwrnyrdctdcs0831OULetgfYtr-aVxBg053zqA/viewform?usp=pp_url).
+You can **ask to join the organization of the workshop** by filling this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdF68oPkylNhwrnyrdctdcs0831OULetgfYtr-aVxBg053zqA/viewform?usp=pp_url).
+
 
 ## Resources and tools
 
