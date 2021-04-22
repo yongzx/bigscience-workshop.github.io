@@ -5,7 +5,6 @@ Note: The workshop involves a set of **collaborative tasks** conducted along the
 The goal of the collaborative tasks is in particular to collaboratively create and share several **artifacts** as tools for the research community:
 
 
-
 *   A **Multilingual Dataset** for Research (possibly full-open-access, possibly behind an authentication access portal to follow GdPR and data privacy legislations => to be defined by the organization committee in charge of this artifact)
 *   A **large Language Model** for Research (possibly full-open-access, possibly behind a researcher’s authentication access portal like the dataset => to be defined by the organization committee in charge of this artifact)
 *   **Software tools** created to complete the shared tasks, e.g. dataset filtering, model off-loading, etc (under very permissive licence, e.g. Apache2 => to be by the organization committee in charge of this artifact)
