@@ -2,7 +2,7 @@ README
 ======
 
 This is the source code of the web page of the BigScience Workshop:
-![https://bigscience.huggingface.co/](https://bigscience.huggingface.co/)
+[https://bigscience.huggingface.co/](https://bigscience.huggingface.co/)
 
 If you are part of the BigScience project,
 you may propose modifications to the web page by submitting a pull request here.
