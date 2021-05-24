@@ -5,7 +5,7 @@ The "Summer of Language Models 21 🌸" (in short "BigScience") is a **one-year 
 
 The workshop is
 
-- conducted **online** from May ‘21 to May ‘22
+- conducted **online** from May 2021 to May 2022
 - with a few **live sessions/events** spread over the year including at least opening and closing events
 - with **collaborative tasks** aimed at creating, sharing and evaluating a **very large multilingual dataset** and a **very large language model** as tools for research
 
