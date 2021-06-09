@@ -49,28 +49,39 @@ While these models may have application and some companies are already offering 
 
 ## Will several models and/or dataset be created - will there be distilled or smaller versions of the model?
 
-All these question are currently discussed and not answered. Though given the size targeted for the model it is already pretty clear that only on single main large model will be trained. Distilling or sharing smaller version of the model could be investigated, keeping in mind that the general research goal of the workshop/project. 
+All these questions are currently discussed and not answered. Though given the size targeted for the model it is already pretty clear that only on single main large model will be trained. Distilling or sharing smaller version of the model could be investigated, keeping in mind that the general research goal of the workshop/project. 
 
 ## How is this energy efficient? Why not smaller models?
+
+We're exploring different options and have dedicated working groups that look into carbon footprint and the overall (social) impact of the project.
 
 
 ## What would happen if some participants don’t finish the task they promised to do?
 
+Sometimes life gets hectic. It's not a problem if you're not able to finish a task that you promised to do, but please keep in mind that this is a collaborative effort. Make sure that you communicate issues timely with chairs and members, as it may impact their work and overall project outcome.
 
 ## How is the access to the compute facilities/providers handled?
 
+If you need access to compute that goes beyond freely available compute, such as Google Colab, please get in touch with your working group chairs.
 
 ## How is the decision making process handled?
 
+BigScience is an open, distributed and collaborative project with specific working groups that are dedicated to different research areas of large language modeling. Decisions are aligned with the goals and principles of BigScience to conduct open fundamental research, and are made within working groups by chairs and members as well as across working groups that depend on each other.
 
 ## Which languages will be in the dataset?
+
+The project starts around 8 broadly defined language groups, namely: Arabic, Bantu languages, Chinese, English, French, Hindi and Urdu, Portuguese, and Spanish. However, there are still a number of questions as to how we conceptualize the notion of languages, especially in a way that is less focused on European ones, as this definition has bearing not only on the way resources are allocated during the dataset creation, but also on tokenization, modeling, and even evaluation choices.
 
 
 ## Who is behind this initiative?
 
+You can find a brief history and the founding members of the BigScience project [here](https://bigscience.huggingface.co/en/#!pages/description.md).
 
 ## Could the model, whose creation is proposed during the shared task, be a multimodal model?
 
+The language model is trained on text, however, it's still possible to come up with new ideas and create new working groups within the project.
 
 ## How can I help, what can I do?
+
+There are many ways to be part of BigScience. BigScience is a research workshop and is open to researchers, i.e. people affiliated with a research organization (in academia or industry) who can join the project as working group members or co-chairs. We have also planned public events to engage a broader audience. [Get in touch](https://bigscience.huggingface.co/en/#!pages/contact.md) if you're interested in joining the project or if you'd like to stay up to date with what we're working on.
 
