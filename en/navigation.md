@@ -26,6 +26,7 @@
 [Kickoff event](pages/kickoff-event.md)
 [Documents](https://bit.ly/bigscience-drive)
 [Forum](https://discuss.bigscience.huggingface.co)
+[Press Releases](pages/media.md)
 [FAQ](pages/faq.md)
 [Contact/follow/join](pages/contact.md)
 
