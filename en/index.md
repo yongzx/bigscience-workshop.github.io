@@ -49,12 +49,6 @@ You can join as (see details of the roles in the main document BigScience - Orga
 
 ## 📰 News
 
-### 09/06/2021 - we're growing!
-
-BigScience has crossed 500 collaborators from 45 different countries!
-
-<p align="center"><img src="https://github.com/bigscience-workshop/bigscience-workshop.github.io/blob/gh-pages/en/pages/uploads/images/bigscience_worldmap_june.png" width="500"></p>
-
 ### 19/04/2021 - preparing a kick-off event
 
 The working group of the OC is now planning a kick off event on April 28th to introduce the workshop.

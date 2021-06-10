@@ -1,8 +1,8 @@
 # Kickoff event
 
-The online kickoff event took place on **Wednesday, April 28th** and marked the beginning of the BigScience one-year long research workshop on very large language models. The event was recorded and is available on [YouTube](https://www.youtube.com/channel/UCwLltQ6_P_rNgj9nYM7B4sw). This is a good place to start if you'd like to know more about the project, the working groups and how to get involved.
+The online kickoff event took place on **Wednesday, April 28th** and marked the beginning of the BigScience one-year long research workshop on very large language models. The event was recorded and is available on [YouTube](https://www.youtube.com/watch?v=TMBcm0TByF4). This is a good place to start if you'd like to know more about the project, the working groups and how to get involved.
 
-[<p align="center"><img src="https://github.com/bigscience-workshop/bigscience-workshop.github.io/blob/gh-pages/en/pages/uploads/images/bigscience_YT_screenshot.png" width="500"></p>](https://www.youtube.com/watch?v=TMBcm0TByF4)
+![](uploads/images/bigscience_YT_screenshot.png)
 
 ## At a glance
 

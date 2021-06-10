@@ -24,7 +24,7 @@ The “BigScience” project originated from discussions in early 2021 between T
 
 About Jean Zay: During the first half of 2019, the Jean Zay computer was installed at IDRIS, national computing centre for the CNRS (Centre national de la recherche scientifique), with an impressive performance of 15.9 Pflop/s (15.9 million billion floating point operations per second). With an extension during 2020 the peak performance of 28 Pflops/s was achieved, opening new possibilites to extend beyond the classic usage modes of high performance computing to new usages in artificial intelligence. 
 
-[<p align="center"><img src="https://github.com/bigscience-workshop/bigscience-workshop.github.io/blob/gh-pages/en/pages/uploads/images/jean-zay_copyright_phototheque_CNRS_cyril_fresillon.jpeg" width="600"></p>](http://www.idris.fr/eng/jean-zay/jean-zay-presentation-eng.html)
+![](uploads/images/jean-zay_copyright_phototheque_CNRS_cyril_fresillon.jpeg)
 
 - Image source/credits: [IDRIS Jean Zay](http://www.idris.fr/eng/jean-zay/jean-zay-presentation-eng.html)
 
