@@ -1,5 +1,12 @@
 # Media
 
+## VentureBeat (Guest article, English)
+
+- Source: [VentureBeat](https://venturebeat.com/2021/07/14/nlp-needs-to-be-open-500-researchers-are-trying-to-make-it-happen/) – July 14, 2021
+
+"Much like the tensions between proprietary and open-source software in the early 2000s, AI is at a turning point where it can either go in a proprietary direction, where large-scale state-of-the-art models are increasingly developed internally in companies and kept private, or in an open, collaborative, community-oriented direction, marrying the best aspects of open-source and open-science. It’s essential that we make the most of this current opportunity to push AI onto that community-oriented path so that it can benefit society as a whole."
+
+<a href="https://venturebeat.com/2021/07/14/nlp-needs-to-be-open-500-researchers-are-trying-to-make-it-happen/">![](uploads/images/press_VB_july.png)</a>
 
 ## MIT Tech Review (English)
 - Source: [MIT Tech Review](https://www.technologyreview.com/2021/05/20/1025135/ai-large-language-models-bigscience-project/) – 20/05/2021
