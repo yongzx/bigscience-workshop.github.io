@@ -1,4 +1,43 @@
-# Kickoff event
+# Events
+
+## BigScience episode #1
+
+Our first live event is happening on July 30th, 2021 and will be co-loacted with the second ELLIS NLP workshop. You can find the program and schedule below, please note that all time slots are in CEST. If you'd like to join the talks / poster sessions please sign up [here](https://forms.gle/hVPFPBoesKgxKLV2A), Zoom and gather.town links will be sent out via email.
+
+### Morning sessions
+
+- 8.15 - 8.45: Intro (Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience – shared talk with the first NLP workshop of ELLIS)
+- 8.45 - 10.00: 3-4 short talks by BigScience working groups
+- 10.00 - 10.30: Poster & breakout sessions (separate, parallel zoom rooms)
+- 10:30 - 10:45: Wrapping up the posters sessions, short break
+- 10:45 - 11:30: Invited talk: "Experience of an open source project maintainer for scikit-learn", Olivier Grisel (ML software engineer at Inria Saclay & maintainer for the Scikit-learn project)
+
+### Afternoon sessions
+
+- 15.00 - 16.00: 3-4 short talks by BigScience working groups
+- 16.00 - 16.30: Poster & breakout sessions (separate, parallel zoom rooms)
+- 16.30 - 17.30: gather.town (socializing)
+
+### Invited talk
+
+#### "Experience of an open source project maintainer for scikit-learn" by Olivier Grisel
+
+#### Abstract
+
+This talk will reflect on my experience as an open source project maintainer. After quickly introducing the decade-long history of the scikit-learn project, its goals and organization, I will try to identify key ingredients necessary to keep a project such as scikit-learn valuable for a wide community of users and contributors. In particular we will focus on collaboration dynamics, interactions with users, automating cross-platform packaging automated quality insurance and interactions with the wider Open Source ecosystem.
+
+#### Speaker bio
+
+Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we works as a maintainer for the Scikit-learn project [1] and occasional contributor to related projects. Olivier is also involved in teaching Deep Learning as part of MSc Data Sciences at IP Paris [2] and Machine Learning with Scikit-learn via a MOOC [3].
+
+- [1] https://scikit-learn.org/
+- [2] https://m2dsupsdlclass.github.io/lectures-labs/
+- [3] https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
+
+
+- - -
+
+## Kickoff event
 
 The online kickoff event took place on **Wednesday, April 28th** and marked the beginning of the BigScience one-year long research workshop on very large language models. The event was recorded and is available on [YouTube](https://www.youtube.com/watch?v=TMBcm0TByF4). This is a good place to start if you'd like to know more about the project, the working groups and how to get involved.
 
