@@ -22,11 +22,12 @@
 [Home](index.md)
 [Description](pages/description.md)
 [Organization](pages/organization.md)
+[Working Groups](pages/working-groups.md)
 [Collaborative tasks](pages/collaborative-tasks.md)
-[Events](pages/kickoff-event.md)
+[Events](pages/events.md)
 [Documents](https://bit.ly/bigscience-drive)
-[Forum](https://discuss.bigscience.huggingface.co)
-[Press Releases](pages/media.md)
+<!--[Forum](https://discuss.bigscience.huggingface.co)-->
+[Press](pages/media.md)
 [FAQ](pages/faq.md)
 [Contact/follow/join](pages/contact.md)
 

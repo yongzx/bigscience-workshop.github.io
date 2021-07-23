@@ -6,7 +6,7 @@ The "Summer of Language Models 21 🌸" (in short "BigScience") is a **one-year 
 The workshop is
 
 - conducted from May 2021 to May 2022
-- with several **live sessions/events** spread over the year ([first session](https://www.youtube.com/watch?v=TMBcm0TByF4) on April 28th, second session planned for end of July)
+- with several **live sessions/events** spread over the year ([first session](https://www.youtube.com/watch?v=TMBcm0TByF4) on April 28th, second session planned for end of July). Find all events [here](events.md).
 - with **collaborative tasks** aimed at creating, sharing and evaluating a **very large multilingual dataset** and a **very large language model** as tools for research
 
 This workshop will foster discussions and reflections around **the research questions surrounding large language models** (capabilities, limitations, potential improvements, bias, ethics, environmental impact, role in the general AI/cognitive research landscape) as well as the challenges around creating and sharing such models and datasets for research purposes and among the research community.
@@ -48,6 +48,10 @@ You can join as (see details of the roles in the main document BigScience - Orga
   * time commitment: free - up to the attendant
 
 ## 📰 News
+
+### 21/07/2021 - BigScience Episode #1 🎉
+
+It's been 2 months since we kicked off the BigScience project, time to present some first results. Join us for talks and posters sessions on July 30th, 2021. The event is co-located with the second ELLIS NLP workshop. You can find more information and the program [here](events.md).
 
 ### 19/04/2021 - preparing a kick-off event
 

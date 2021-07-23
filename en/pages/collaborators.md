@@ -1,0 +1,543 @@
+# BigScience Collaborators 🌸
+
+Listed alphabetically, July 2021.
+
+- Aakanksha Naik, Carnegie Mellon University
+- Abheesht Sharma, BITS Pilani, Goa Campus
+- Abhinav Ramesh Kashyap, National University of Singapore
+- Adam Grzywaczewski, NVIDIA
+- Adithya Murali, University of Illinois at Urbana-Champaign
+- Adithya Renduchintala, Facebook AI
+- Adrian Popescu, CEA
+- Agnès Saulnier, INA
+- Ahmed Baruwa, Obafemi Awolowo University
+- Ahmed Rashwan, A.I.M Technologies
+- Aitor Gonzalez-Agirre, Barcelona Supercomputing Center
+- Aitor Soroa, Hitz Centre, University of the Basque Country
+- Akash Mehra, Apple
+- Alan Akbik, Humboldt Universität zu Berlin
+- Alan Reid, CaliberAI
+- Albert Villanova del Moral, Hugging Face
+- Albert Webson, Brown University
+- Alberto Bégué, Della AI
+- Aleksandr Drozd, RIKEN
+- Alessandro Suglia, Heriot-Watt University
+- Alexandre Allauzen, Dauphine Université et ESPCI PSL
+- Alham Fikri Aji, Kata.ai
+- Alicia Nobles, University of California San Diego
+- Aline Villavicencio, University o Sheffield
+- Alison Callahan, Stanford University
+- Alistair Windsor, University of Memphis
+- ALLEON Guillaume, Airbus
+- Allison Parrish, New York University
+- Amar Viswanathan, BestBuy AI
+- Amaru Cuba Gyllensten, Research Institutes of Sweden
+- Amblard Maxime, Université de Lorraine, Loria
+- Amir Soleimani, University of Amsterdam
+- Amit Agarwal, Oracle
+- Andre Martins, Instituto Superior Tecnico
+- Andrea Santilli, Sapienza University of Rome
+- Andreas Stuhlmüller, Ought
+- Andrew Olney, University of Memphis
+- Andrew Poulton, Alef Education
+- Andrew Vaziri, TBD
+- Andrew Williams, Université de Montréal
+- Andrey Kormilitzin, University of Oxford
+- Angelina McMillan-Major, HuggingFace
+- Angie Boggust, MIT
+- Animesh Prasad, Amazon 
+- Anna Rogers, University of Copenhagen
+- Anne-Laure Ligozat, LISN et ENSIIE
+- Anouk Ruhaak, Mozilla / Digital Commoners
+- Anthony Hevia, Microsoft
+- Antoine Bosselut, Stanford University
+- Antoine Chaffin, IRISA/IMATAG
+- Antoine LAURENT, LIUM - Le Mans University
+- Antoine Neuraz, APHP
+- Antoine SIMOULIN, Laboratoire de Linguistique Formelle (LLF)
+- Archiki Prasad, IIT Bombay / UNC Chapel Hill (incoming)
+- Aremu Anuoluwapo, University of Lagos
+- Ariel Ekgren, RISE
+- Arjun Subramonian, University of California, Los Angeles
+- Arman Cohan, Allen Institute for AI (AI2)
+- Arnaud Stiegler, Hyperscience
+- Arun Raja, A*STAR
+- Ashish Upadhyay, Robert Gordon University, Aberdeen
+- Asia Biega, Max Planck Institute for Security and Privacy
+- Asli Celikyilmaz, Facebook AI Research
+- Aswin Giridhar Subramanian, Novartis Healthcare India Pvt Ltd
+- Atnafu Lambebo, Wolaita Sodo University 
+- Aurélie Névéol, LISN CNRS
+- Avi Sil, IBM Research AI
+- Aviv Ovadya, The Thoughtful Technology Project
+- Ayoade Adetunji Adeyemi, University of Ibadan 
+- Baptiste Doyen, Banque de France
+- Ben Hoover, IBM Research; MIT-IBM Watson AI Lab
+- Ben Peters, Instituto de Telecomunicações/Instituto Superior Técnico
+- Benedikt Perak, University of Rijeka, Cultural Complexity Lab
+- Benjamin Lecouteux, Laboratoire Informatique de Grenoble UGA
+- Benoit Crabbé, University of Paris
+- Benoit Dal Ferro, UnBias SAS
+- Benoit Favre, Aix-Marseille Université, LIS/CNRS UMR 7020
+- Benoît Sagot, Inria
+- Bertrand Cabot, CNRS IDRIS
+- Besacier, Naver Labs Europe
+- Bishwaranjan Bhattacharjee, IBM T.J.Watson Research
+- Bjarke Felbo, Rune
+- Blanca Calvo Figueras, Barcelona Supercomputing Center
+- Boualem Benatallah, UNSW, Sydney, Australia
+- Braden Hancock, Snorkel AI
+- Brun Caroline, Naver Labs Europe
+- Bryan Catanzaro, NVIDIA
+- Byung-Hak Kim, AKASA
+- Caiming Xiong, Salesforce Research
+- Camille Parisel, IDRIS
+- Canwen Xu, Hugging Face/UCSD
+- Carlos Muñoz Ferrandis, Max Planck Institute for Innovation and Competition
+- Carlos Rodríguezz, Barcelona Supercomputing Center
+- Carolyn Anderson, Wellesley College
+- Casimiro Pio Carrino, Barcelona Supercompunting Center
+- Catherine Kobus, Airbus
+- Cèsar Ferri, Universitat Politècnica de València
+- Chapuis, Telecom Paris
+- Chenglei Si, University of Maryland, College Park
+- CHRIS CHINENYE EMEZUE, Technical University of Munich
+- Chris Ré, Stanford
+- Christoph Alt, German Research Center for AI
+- Christophe Cerisara, CNRS
+- Chrysoula Zerva, Instituto de Telecomunicações, Instituto Superior Técnico
+- Claire Gardent, CNRS/LORIA
+- Cláudio Rodrigues, University of York
+- Clément ROMAC, Inria Bordeaux
+- Connor Leahy, EleutherAI /Aleph Alpha
+- Cooper Raterink, Cohere www.cohere.ai
+- Dan Garrette, Google Research
+- Danda Zhao, Continental Automotive Systems, Inc.
+- DAPHNÉ MARNAT, Unbias.fr
+- David Adelani, Saarland Univerisity 
+- David Doukhan, INA
+- David Lansky, None (formerly at OpenAI)
+- David Stap, University of Amsterdam
+- Dean Pleban, DAGsHub
+- Debajyoti Datta, University of Virginia
+- Deepa Muralidhar, Georgia State University
+- Deepak Narayanan, Stanford University
+- Deividas, IBM
+- Deividas Mataciunas, IBM
+- Devamanyu Hazarika, National University of Singapore
+- Didier Schwab, Univ. Grenoble Alpes
+- Dieuwke Hupkes, Facebook AI Research 
+- Dimitra Gkatzia, Edinburgh Napier University
+- Dimitri Lozeve, Sysnav
+- Dimitrios Christofidellis, IBM Research Europe
+- Ding Bosheng, NTU
+- Diwakar Mahajan, IBM Research
+- Dr. Leah C. Windsor, The University of Memphis
+- Dragomir Radev, Yale
+- Dragomir Radkov Radev, Yale University
+- Ebenge Usip, Telecom Paris
+- Edoardo Maria Ponti, Mila - Quebec AI Institute
+- Efrat Swissa, Nvidia
+- Ehud Reiter, University of Aberdeen
+- Eleni Metheniti, Université de Toulouse II, Université de Toulouse III, CNRS
+- Eliza Szczechla, 
+- Elizabeth Keleshian, Natural Language Processing in Armenia
+- Elizabeth Salesky, Johns Hopkins University
+- Ellie Pavlick, Google
+- Emil Vatai, Riken R-CCS
+- Emily Reif, Google (People + AI Research)
+- ERIC DE LA CLERGERIE, INRIA
+- Eric Wallace, UC Berkeley
+- Ernie Chang, Saarland University
+- Ethan Perez, New York University
+- Eun Seo Jo, Stanford
+- Evan Dufraisse, CEA
+- Evi Gogoulou, RISE Research Institutes of Sweden
+- Fabian Kaelin, Wikimedia
+- Fabrice Zapfack, data354
+- Farah Benamara, IRIT-Toulouse University
+- Farhana Ferdousi Liza, University of Essex
+- Fatma Tarlaci, OpenTeams
+- Fazel Keshtkar , St. John’s University 
+- Fernando Martínez-Plumed, European Commission - Joint Research Centre
+- Filip Ginter, University of Turku
+- Francesco De Toni, The University of Western Australia
+- Francois Courteille, NVIDIA
+- FRANCOIS LE LAY, Hugging Face
+- Fredrik Olsson, RISE, Research Institutes of Sweden
+- Gabriel Altay, Kensho Technologies 
+- Gabriel Ilharco, University of Washington
+- Gabriele Sarti, University of Groningen
+- Gautier Viaud, Illuin Technology
+- Gaya Nadarajan, Sungkyunkwan University
+- Gérard Chollet, CNRS
+- Gérard Dupont, on sabbatical (otherwise AIRBUS)
+- Germán Kruszewski, Naver Labs Europe
+- Ghislain Putois, Orange Labs
+- Giada Pistilli, Sorbonne Université
+- Giuseppe Vettigli, Centrica
+- Gonzalo Jaimovitch, Universitat Politècnica de València
+- Gorka Labaka, University of the Basque Country (UPV/EHU)
+- Grgur Kovac, INRIA, Flowers
+- Grzegorz Chrupała, Tilburg University
+- Guillaume Klein, SYSTRAN
+- Gul Kamisli, CaliberAI
+- Gunjan Chhablani, 
+- Guy Smoilovsky, DAGsHub
+- Hadrien de Dompsure, IDRIS
+- Hady Elsahar, Naver Labs Europe
+- Hala Almaghout, Apple
+- Halil Akin, Facebook
+- Han Guo, CMU
+- Han Wang, New York University
+- Hannah Devinney, Umeå University
+- Harish Tayyar Madabushi, The University of Sheffield 
+- Harshit Pandey, Savitribai Phule Pune University
+- Haryo Akbarianto Wibowo, Kata.ai
+- Hatim Bourfoune, IDRIS
+- Hector Postigo, Temple University
+- Henry Zhou, University of California, Santa Cruz
+- HUDELOT CELINE, CentraleSupélec - MICS
+- Hugo Sonnery, INRIA
+- Huu Nguyen, Ontocord LLC and American Bar Association 
+- Iacer Calixto, University of Amsterdam, New York University
+- Iacopo Poli, LightOn
+- Ibrahim Sharaf, Factmata
+- Iiro Rastas, University of Turku
+- Iman Jundi, IMS - Stuttgart University
+- Inyoung Kim, Naver Labs Europe
+- Ioana Baldini, IBM Research
+- Ioannis Konstas, Heriot-Watt University
+- Iryna Gurevych, Technical University of Darmstadt
+- Isaac Johnson, Wikimedia Foundation
+- Isaac Rodríguez Bribiesca, Mathematics Research Center (CIMAT)
+- Isabelle Augenstein, University of Copenhagen
+- Isabelle Caldeira, 
+- Ivan Crnomarkovic, University of Zagreb, Faculty of Electrical Engineering and Computing
+- Ivan Vulić, University of Cambridge
+- Iz Beltagy, Allen Institute for AI
+- Jaap Jumelet, University of Amsterdam
+- Jacopo Staiano, ReciTAL
+- Jake Tae, Yale University/Neosapience
+- Jakub Zavrel, Zeta Alpha
+- James Briggs, Graphcore
+- James Wexler, Google
+- Jan-Christoph Kalo, KRR, VU Amsterdam
+- Jared Casper, NVIDIA
+- Jason Fries, Snorkel.ai / Stanford
+- Jason Phang, New York University
+- Jazmia Henry, Stanford University
+- Jean Carrive, INA (Institut national de l'audiovisuel, France)
+- Jean Senellart, SYSTRAN
+- Jean-Baptiste Cordonnier, EPFL
+- Jean-Michel Dussoux, Cloud Temple
+- Jeff Rasley, Microsoft
+- Jekaterina Novikova, NoOverfitting Lab
+- Jelle Zuidema, U. of Amsterdam
+- Jérôme MASSOT, Total
+- Jesse Dodge, Allen Institute for AI
+- Jesse Spencer-Smith, Vanderbilt University
+- Jin Koay, Facebook
+- Joe Davison, Hugging Face
+- Joewie J. Koh, University of Colorado Boulder
+- Joey Conway, NVIDIA
+- Jonas Pfeiffer, Technical University of Darmstadt 
+- Jonathan Berant, Tel Aviv University
+- Jonathan Chang, National Taiwan University
+- Jonathan Rosenfeld, MIT
+- Joon-Ho Lim, Electronics and Telecommunications Research Institute
+- Jordi Armengol-Estapé, BSC
+- Jörg Tiedemann, University of Helsinki
+- Jos Rozen, Naver Labs Europe
+- Jose Hernandez-Orallo, Universitat Politecnica de Valencia
+- Josep Crego, SYSTRAN
+- Josh Levy-Kramer, Graphcore
+- Josip Jukić, TakeLab, Faculty of Electrical Engineering and Computing, University of Zagreb
+- Juan Antonio Pérez-Ortiz, University of Alicante
+- Juan Gustavo Corvalán, Laboratorio de Inteligencia Artificial UBA https://ialab.com.ar/
+- Julien Abadji, Inria
+- Julien Demouth, NVIDIA
+- Julien Launay, LightOn
+- Julien Tourille, CEA
+- Junjie Hu, Carnegie Mellon University
+- Kalle Prorok, Umeå university
+- Kamalkumar Rathinasamy, Infosys
+- Kamel Guerda, IDRIS
+- Karan Goel, Stanford University
+- Karën Fort, Sorbonne Université et LORIA
+- Kari Briski, NVIDIA
+- Kata Naszadi, University of Amsterdam
+- Kaustubh Dhole, Amelia R&D
+- Keith Porcaro, Duke Law School
+- Kelechi Ogueji, Masakhane
+- Kenneth Heafield, University of Edinburgh + Facebook
+- Kevin Jordan, McKinsey & Company
+- Khyati Mahajan, University of North Carolina at Charlotte
+- Kristian Kersting, TU Darmstadt and hessian.AI, Germany
+- Ksenia Shkaruta, Georgia Institute of Technology
+- Laurel Orr, Stanford
+- LAVALLEE, CNRS-IDRIS
+- Leandro von Werra, Swiss Mobiliar
+- Lewis Tunstall, Hugging Face (starting May)
+- Lintang Sutawika, Independent
+- Loïc Kwate Dassi, National School of Computer Science and Applied Mathematics Grenoble
+- Luca Foppiano, National Institute for Materials Science
+- Luca Moschella, Sapienza University of Rome
+- Luca Soldaini, Amazon Alexa
+- Luciana Benotti, Universidad Nacional de Cordoba
+- Lucy Lu Wang, Allen Institute for AI
+- Ludovic Tanguy, CLLE: University of Toulouse & CNRS, France
+- Luke Zettlemoyer, University of Washington
+- Luou Wen, University of Cambridge
+- M Saiful Bari, Nanyang Technological University
+- Madhulika, PAI
+- Madison May, Indico Data Solutions
+- Maged Saeed, King Fahd University of Petroleum and Minerals
+- Maite Melero, Barcelona Supercomputing Center
+- Maithrreye Srinivasan, University of Alberta
+- Malvina Nikandrou, Heriot-Watt University
+- Manan Dey, SAP
+- Maraim Masoud, Insight
+- Marc Pamies, Barcelona Supercomputing Center (BSC)
+- Margaret Mitchell, Ethical AI LLC
+- Marie Candito, Université de Paris
+- Marie Thérèse MBIA NDI, ENS Paris Saclay
+- Marine Carpuat, University of Maryland
+- Marius Mosbach, Saarland University
+- Mark Last, Ben-Gurion University of the Negev 
+- Marta Villegas, Barcelona Supercomputing Center
+- Martin Gerlach, Wikimedia Foundation
+- Martin Tutek, University of Zagreb
+- Mathieu Constant, Université de Lorraine
+- Mathieu Lafourcade, université de Montpellier - LIRMM
+- Matteo Manica, IBM Research
+- Matthew Bateman, Versiv
+- Matthew Peters, AI2
+- Matthieu Labeau, Telecom Paris
+- Max Huang, ProUnlimited
+- Max Ryabinin, Yandex/HSE University
+- Maxime De Bruyn, Antwerp University - CLiPS
+- Maximin Coavoux, CNRS / Univ Grenoble Alpes
+- Maya Varma, Stanford University
+- Md Rabiul Awal, University of Saskatchewan
+- Meheresh Masanpally, IIT Kharagpur, India
+- Mélanie Lopez, Ubisoft
+- Meriem Bendris, NVIDIA
+- Michael Peter McKenna, CVS Health (but mainly applying in my capacity as an independent researcher publishing about bias in AI)
+- Michael Wang, Nvidia
+- Michiel van der Meer, Leiden University
+- Mihaela Bošnjak, Faculty of Electrical Engineering and Computing, University of Zagreb
+- Mihir Kale, Google
+- Mike Tian-Jian Jiang, ZEALS Co., Ltd.
+- Mikel Artetxe, Facebook AI Research
+- Miles Brundage, OpenAI
+- Minh Quang Pham, LISN / CNRS, Université Paris-Saclay, Systran
+- Minjia Zhang, Microsoft
+- Miruna Adriana Clinciu, University of Edinburgh and Heriot-Watt University, UK
+- Miruna-Adriana Clinciu, Heriot-Watt University
+- Mohamed Ahmed, N/A
+- Mohamed Ben Hamdoune, Zifo RnD Solutions
+- Mohammad Ali Jauhar, Aligarh Muslim University
+- Mohammad Shoeybi, NVIDIA
+- MOHIT BANSAL, UNC Chapel Hill
+- Mohsen Mesgar, UKP, TU Darmstadt
+- Mostafa Dehghani, Google Brain
+- Mounir, Della AI
+- Murhabazi Buzina Espoir, Spiny AI 
+- Mutethia Murori Mutuma, Yale University
+- Myle Ott, Facebook AI Research
+- Myriam Peyrounette, IDRIS
+- Nafise Sadat Moosavi, UKP Lab, TU Darmstadt
+- Namrata Mukhija, New York University 
+- Natalia Menéndez, European University Institute
+- Nathan NOIRY, Telecom Paris
+- Nazneen Rajani, Salesforce
+- Nick Doiron, Tufts University
+- Nickil Maveli, University of Edinburgh
+- Nicola De Cao, University of Amsterdam
+- Nicolas Chauville, Della AI
+- Nicolas HERVÉ, Ina
+- Nidhi Tandon, Advaya Legal
+- Nihal V. Nayak, Brown University
+- Nikita Moghe, University of Edinburgh
+- Nils Reimers, 
+- Nima Ghanbari Bousejin, Home
+- Nimshi Venkat, Abridge AI
+- Nishant Subramani, Intel Labs
+- Nivranshu Pasricha, National University of Ireland Galway
+- Nora Kassner, LMU Munich
+- Nosheen Abid, Luleå University of Technology 
+- Olatunji Ruwase, Microsoft
+- Olga Majewska, University of Cambridge
+- Olivier Ferret, CEA LIST
+- Olivier Nguyen, Element AI
+- Omar Sanseviero, -
+- Ona de Gibert Bonet, Barcelona Supercomputing Center
+- Oskar Bunyan, Graphcore
+- Oskar van der Wal, University of Amsterdam
+- Pablo Piantanida, ILLS - CNRS Université Paris Saclay - Mila - McGill - ETS
+- Parthasarathy Suryanarayanan, IBM Research 
+- Pasquale Minervini, UCL
+- Patrick Drouin, Université de Montréal
+- Patrick Fernandes Fernandes, Carnegie Mellon University / Instituto Superior Técnico
+- Patrick Lewis, Facebook AI Research, University College London
+- Pawan Sasanka Ammanamanchi, International Institute of Information Technology, Hyderabad
+- Pedro Henrique Alves Martins, Instituto de Telecomunicações
+- Pedro Javier Ortiz Suárez, Inria
+- Peter Bloem, VU University Amsterdam
+- Peter Ford Dominey, INSERM & CNRS
+- Philippe Muller, IRIT, University of Toulouse
+- Pierre Colombo, Telecom Paris
+- Pierre Ludmann, Université de Lorraine, CNRS, Inria, LORIA
+- Pierre-Yves Oudeyer, Inria
+- Prateek Singh, CSIR-IGIB,New Delhi
+- Priyank Soni, Amelia, an Ipsoft company
+- Prosper Correa, Aday
+- Putra Manggala, University of Amsterdam
+- Quentin Heinrich, Illuin Technology
+- quentin lhoest, hugging face
+- Rabin Banjade, University of Memphis
+- Rachel Bawden, Inria
+- Rachel Li, IQVIA
+- Radu Florian, IBM Research AI
+- Rajaram Sivaramakrishnan, RTI International
+- Rebecca L. Johnson, The University of Sydney
+- Rémi Lacroix, IDRIS-CNRS
+- Rendi Chevi, Kata.ai
+- Reshinth Adithyan, Machine Learning for Mechanical Design Lab
+- Richard Jackson, AstraZeneca Ltd
+- Richard Jia Chuan Chen, Harvard University
+- Rico Sennrich, University of Zurich / Edinburgh
+- Rishi Bommasani, Stanford University
+- Rodrigo Wilkens, University of Milano-Bicocca
+- Roman Castagné, INRIA
+- Rowan Zellers, University of Washington
+- Ruby Guillen, National Association of Social Workers/CA, Technology Council
+- Rui Ribeiro, Instituto Superior Técnico, Universidade de Lisboa
+- Rui Zhang, Penn State University
+- Ruiqi Zhong, University of Berkeley, California
+- Ruochen Zhang, Brown University 
+- Ryan Teehan, Charles River Analytics
+- Saad Mahamood, trivago N.V.
+- Saahil Jain, Stanford University
+- Sabrina Mielke, Johns Hopkins University
+- Sadid Hasan, CVS Health
+- Saige Rutherford, Donders Institute
+- Salah Aït-Mokhtar, Naver Labs Europe
+- Salomey Osei, Masakhane
+- Sam Bowman, NYU
+- Samira Shaikh, UNC Charlotte
+- Sampo Pyysalo, University of Turku
+- Samson Tan, Salesforce Research / National University of Singapore
+- Samyam Rajbhandari , Microsoft
+- Sandip patil, 
+- Sanjana Jacob Mammen, Facebook
+- Sara Hooker, Google 
+- Sara Meftah, Square Research Center
+- Sasha Luccioni, Mila + Université de Montréal
+- Satviki Pathak , UBS
+- Sean Narenthiran, PyTorch Lightning
+- Sebastian Gehrmann, Google Research
+- Sebastian Nagel, Common Crawl
+- Seraphina Goldfarb-Tarrant, University of Edinburgh
+- Shaden Smith, Microsoft
+- Shafiq Joty, Nanyang Technological University
+- shamsuddeen muhammad, Bayero University, Kano
+- Shanya Sharma, Walmart Labs India
+- Shaoxiong Ji, Aalto University
+- Sharanya G Ranga, Advaya Legal
+- Sheng Shen, UC Berkeley
+- Shiyue Zhang, UNC Chapel Hill
+- Shubham Agarwal, Heriot-Watt University
+- Sid Black, EleutherAI
+- Siddharth Karamcheti, Stanford
+- Sneha Jha, Imperial College London
+- Soumya Sarkar, TU Darmstadt
+- Souvik Roy, Huawei Noah Ark's Lab
+- Srulik Ben David, Technion – Israel Institute of Technology
+- Stefan Schweter, Bavarian State Library Munich
+- Stella Biderman, EleutherAI
+- Stephane Requena, GENCI
+- Stephen Bach, Brown University
+- Sujith Ravi, Amazon AI, ex-Google AI
+- Sushil, Teladoc
+- Suzana Ilić, HuggingFace
+- Swabha Swayamdipta, Allen Institute for AI
+- Sylvain Jeaugey, NVIDIA
+- Sylvain Viguier, Graphcore
+- Taesun Moon, IBM Research
+- Taewoon Kim, Vrije Universiteit Amsterdam
+- Taisiya Glushkova, Instituto Superior Técnico, Instituto de Telecomunicaçōes
+- Tajuddeen Rabiu Gwadabe, University of Chinese Academy of Sciences
+- Tal Perry, LightTag
+- Tanise Pagnan Ceron, University of Trento
+- Tanvi Dinkar, Telecom Paris
+- Tasnim Mohiuddin, Nanyang Technological University
+- Terrell Ibanez, Stanford University
+- Thiago Castro Ferreira, Federal University of Minas Gerais
+- Thibault Fevry, 
+- Thijs Vogels, EPFL
+- Thomas Scialom, Récital
+- Thomas Wang, Inria
+- Thomas Wolf, HuggingFace
+- Tian Yun, Brown University
+- Tianyi, Stanford University
+- Timo Schick, LMU Munich
+- Tolga Bolukbasi, Google Research
+- Tom Hosking, University of Edinburgh
+- Tom Sherborne, University of Edinburgh
+- Tosin Adewumi, Luleå University of Technology
+- Trieu Le, National University of Singapore
+- Trishala Neeraj, CyberCube
+- Tsvetomila Mihaylova, Instituto de Telecomunicacoes
+- Uğur Ünal, Kadir Has University
+- Urmish Thakker, 
+- Valia Kordoni, Humboldt Universität zu Berlin
+- VALLET, CNIL
+- Vassilina Nikoulina, Naver Labs Europe
+- Vered Shwartz, AI2 & University of Washington
+- Verena Rieser, Heriot-Watt University
+- Veronica Perez-Rosas, University of Michigan
+- Veronika Laippala, University of Turku / TurkuNLP
+- Ves Stoyanov, Facebook
+- Vibhu Mittal, Mettle Works
+- Vikas Raunak, Microsoft
+- Vinay Prabhu, UnifyID
+- Vincent Claveau, CNRS - IRISA
+- Vipul Raheja, Grammarly
+- Vishakha Agrawal, Dayananda Sagar College
+- Vishakha Sharma, Roche
+- Vishrav Chaudhary, Facebook AI Research (FAIR)
+- Vittorio Caggiano, FAIR
+- Vivek Natarajan, Google AI
+- Vlad Niculae, University of Amsterdam
+- Vu Minh Chien, Detomo
+- Wangchunshu Zhou, Beihang University
+- Wei Sun, Aalto University
+- Wietse de Vries, University of Groningen
+- Wilson Lee, The Trevor Project
+- Xabier Soto, HiTZ Center - Ixa, University of the Basque Country UPV/EHU.
+- Xavier Tannier, Sorbonne Université, LIMICS
+- Xiang Zhou, UNC Chapel Hill
+- Xudong Shen, National University of Singapore
+- Y-Lan Boureau, Facebook AI Research
+- Ya Gao, Aalto University
+- Yan Zhang, graphcore
+- Yanai Elazar, Bar-Ilan University & Allen AI 
+- Yaroslav Bulatov, MLCollective
+- Yaxiong Zhao, NascentCore.ai
+- Yoav Goldberg, bar ilan university
+- Yonatan Belinkov, Technion
+- Yong Zheng Xin, Brown University
+- Yozh, Higher School of Economics
+- Yufang Hou, IBM Research
+- Yujian gan, Queen Mary university of London
+- Yvon, CNRS
+- Zae Myung Kim, Naver Labs Europe
+- Zaid Alyafeai, 
+- Zeerak Waseem, University of Sheffield
+- Zejiang (Shannon) Shen, Allen Institute for AI
+- Zenodia Charpy, NVIDIA
+- Zhewei Yao, UC Berkeley
+- Zhiqing Sun, Carnegie Mellon University
+- Zornitsa Kozareva, Facebook AI Research

@@ -1,4 +1,4 @@
-# Events
+# Events 🌸
 
 ## BigScience episode #1
 
@@ -43,13 +43,13 @@ The online kickoff event took place on **Wednesday, April 28th** and marked the 
 
 ![](uploads/images/bigscience_YT_screenshot.png)
 
-## At a glance
+#### At a glance
 
 *   **Officially introduced and started** the workshop and the collaboration tools
 *   **Presented the first working groups** and what can be done to join and help as well as propose additional working groups
 *   **Answered questions**, explained the (new) tools and how to participate
 
-## Two sessions
+#### Two sessions
 
 The event had two identical 2h sessions in different timezones.
 
@@ -58,7 +58,7 @@ The event had two identical 2h sessions in different timezones.
 - Session 1: 10-12am Paris, 4-6pm Beijing, 11am-1pm Moscow, 4-6 am NYC, 1-3am SF
 - Session 2: 1-3pm NYC, 10am-12pm SF, 7-9pm Paris, 8-10pm Moscow, 1-3am Beijing
 
-## Live streams
+#### Live streams
 
 1. Live-streams on Youtube and Tencent Meeting (same content livestreamed on all channels):
     - Youtube: http://youtube.com/channel/UCwLltQ6_P_rNgj9nYM7B4sw/live
