@@ -8,7 +8,8 @@ The orgagnization of the workshop has thus been growing steadily from the [found
 
 The list of the founding members can be consulted [here](https://docs.google.com/document/d/1-pZxvdQZsRXCKyA3nvTSWhLyuQX5JLIzIE6aTYMmZXw/edit?usp=sharing) and the current list of members (in the process of being updated) can be found [here](https://docs.google.com/spreadsheets/d/1-J6JSUBYVnyCp06vsZODTO-O8vQOFunX3nonfyof_J8/edit?usp=sharing).
 
-The members are participating in Working Groups as detailed on the [Collaborative tasks page](collaborative-tasks.md).
+The members are participating in Working Groups as detailed on the [Collaborative tasks page](collaborative-tasks.md). A list of collaborators can be found [here](collaborators.md).
+
 ## Follow the workshop or join the organization
 
 You can **stay informed** about the projet by [entering your email here](https://docs.google.com/forms/d/e/1FAIpQLSe3gYSfNX6aKFwDVKdp-42w2kAldasdFjMJnHCUTdlgo-5lqQ/viewform).
