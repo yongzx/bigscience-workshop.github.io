@@ -12,7 +12,7 @@ The goal of the collaborative tasks is in particular to collaboratively create a
 * Extensive **documentation** of the evaluation results, protocols, approach, datasets, and tools developed in the course of the project for future reconduction
 
 
-# Table of Content
+## Table of Content
 
 
 - [Overview: how to participate, what roles](#overview-how-to-participate-what-roles)
@@ -46,7 +46,7 @@ The goal of the collaborative tasks is in particular to collaboratively create a
 
 
 
-# Overview: how to participate, what roles
+## Overview: how to participate, what roles
 
 BigScience is a research workshop and is open to researchers, i.e. people affiliated with a research organization (in academia or industry) and whose day work is for instance (at least in part) to publish papers in peer-review venues, as well as to people whose technical and professional expertise bears relevance to the social aspects of the project.
 
@@ -73,7 +73,7 @@ You can generally participate in the project as:
 # <span style="text-decoration:underline;"> 
 </span>
 
-## More details on the role of the co-chairs
+### More details on the role of the co-chairs
 
 Each working group has at least one chair (ideally more than 1 person). Here are some details on the chair role and selection.
 
@@ -94,7 +94,7 @@ For the **selection process**, we are trying to have something quite bottom-up k
 * in all this process goodwill is assumed and there should be an effort to listen to all arguments but the pragmatic success of the project is also considered more important than specific people interest (in other words “wanting to be a chair does not guarantee that you will be a chair and there will be a certain degree of arbitrariness”, I’m sorry in advance).
 
 
-# Working Groups
+## Working Groups
 
 Find a list of all collaborators [here](collaborators.md).
 
@@ -130,7 +130,7 @@ This working group is leading organizational aspects of BigScience, discussing t
 # Dataset creation
 
 
-## Scope
+### Scope
 
 The Dataset Creation effort is concerned with the creation of a large multilingual dataset. It is further split into 3 distinct working groups:
 
@@ -149,7 +149,7 @@ Yacine Jernite
 
 # Data Governance and Archival Strategies
 
-## Scope
+### Scope
 
 This working group is tasked with exploring questions about how data is gathered and managed, choosing the right metadata and indexing and documentation structure, and developing protocols to ensure that data is used while respecting the rights and for the benefit of the data subjects.
 
