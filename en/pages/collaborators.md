@@ -1,6 +1,6 @@
 # BigScience Collaborators 🌸
 
-Listed alphabetically, July 2021.
+July 2021
 
 - Aakanksha Naik, Carnegie Mellon University
 - Abheesht Sharma, BITS Pilani, Goa Campus

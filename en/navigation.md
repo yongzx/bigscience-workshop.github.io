@@ -26,7 +26,6 @@
 [Collaborative tasks](pages/collaborative-tasks.md)
 [Events](pages/events.md)
 [Documents](https://bit.ly/bigscience-drive)
-<!--[Forum](https://discuss.bigscience.huggingface.co)-->
 [Press](pages/media.md)
 [FAQ](pages/faq.md)
 [Contact/follow/join](pages/contact.md)
