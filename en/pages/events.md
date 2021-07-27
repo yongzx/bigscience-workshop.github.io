@@ -8,15 +8,25 @@ Our first live event is happening on July 30th, 2021 and will be co-loacted with
 
 - 8.15 - 8.45: Intro (Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience – shared talk with the first NLP workshop of ELLIS)
 - 8.45 - 10.00: 3-4 short talks by BigScience working groups
-- 10.00 - 10.30: Poster & breakout sessions (separate, parallel zoom rooms)
+- 10.00 - 10.30: Poster & breakout sessions (gather.town), with the following presentations:
+    - Data Tooling
+    - Modeling Retrieve
+    - Organization (all things BigScience)
 - 10:30 - 10:45: Wrapping up the posters sessions, short break
 - 10:45 - 11:30: Invited talk: "Experience of an open source project maintainer for scikit-learn", Olivier Grisel (ML software engineer at Inria Saclay & maintainer for the Scikit-learn project)
 
 ### Afternoon sessions
 
 - 15.00 - 16.00: 3-4 short talks by BigScience working groups
-- 16.00 - 16.30: Poster & breakout sessions (separate, parallel zoom rooms)
-- 16.30 - 17.30: gather.town (socializing)
+- 16.00 - 16.30: Poster & breakout sessions (gather.town), with the following presentations:
+  - Modeling Prompt Engineering
+  - Modeling Architecture and Scaling
+  - Data Governance
+  - Data Sourcing
+  - Data Tooling
+  - Challenges in the Biomedical Domain
+  - [Meta-Group] Social Impact across Groups
+- 16.30 - 17.30: Social hour (gather.town)
 
 ### Invited talk
 

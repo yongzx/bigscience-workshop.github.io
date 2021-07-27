@@ -51,7 +51,7 @@ You can join as (see details of the roles in the main document BigScience - Orga
 
 ### 21/07/2021 - BigScience Episode #1 🎉
 
-It's been 2 months since we kicked off the BigScience project, time to present some first results. Join us for talks and posters sessions on July 30th, 2021. The event is co-located with the second ELLIS NLP workshop. You can find more information and the program [here](events.md).
+It's been 2 months since we kicked off the BigScience project, time to present some first results. Join us for talks and posters sessions on July 30th, 2021. The event is co-located with the second ELLIS NLP workshop. You can find more information and the program [here](pages/events.md).
 
 ### 19/04/2021 - preparing a kick-off event
 
