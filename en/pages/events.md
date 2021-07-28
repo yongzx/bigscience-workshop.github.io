@@ -1,10 +1,10 @@
-# 🌸 Events
+# Events 🌸
 
 ## BigScience Episode #1
 
 Our first live event since the kickoff is happening on July 30th, 2021 and will be co-loacted with the [second ELLIS NLP workshop](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0) with a shared talk, you can find the ELLIS NLP program [here](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0). The BigScience program and schedule can be found below, please note that all time slots are in CEST. If you'd like to join the talks / poster sessions please sign up [here](https://forms.gle/hVPFPBoesKgxKLV2A), Zoom and gather.town links will be sent out via email, you can also add events to your Google calendar.
 
-### 🌸 Part I
+## Part I 🌸
 
 #### ▶️ Talks
 [Add to your Google Calendar](https://bit.ly/3iT6BuM)
@@ -30,7 +30,19 @@ Our first live event since the kickoff is happening on July 30th, 2021 and will 
 
 - 10:45 - 11:30: Invited talk: "Experience of an open source project maintainer for scikit-learn", Olivier Grisel (ML software engineer at Inria Saclay & maintainer for the Scikit-learn project)
 
-### 🌸 Part II
+##### Abstract
+
+This talk will reflect on my experience as an open source project maintainer. After quickly introducing the decade-long history of the scikit-learn project, its goals and organization, I will try to identify key ingredients necessary to keep a project such as scikit-learn valuable for a wide community of users and contributors. In particular we will focus on collaboration dynamics, interactions with users, automating cross-platform packaging automated quality insurance and interactions with the wider Open Source ecosystem.
+
+##### Speaker bio
+
+Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we works as a maintainer for the Scikit-learn project [1] and occasional contributor to related projects. Olivier is also involved in teaching Deep Learning as part of MSc Data Sciences at IP Paris [2] and Machine Learning with Scikit-learn via a MOOC [3].
+
+- [1] https://scikit-learn.org/
+- [2] https://m2dsupsdlclass.github.io/lectures-labs/
+- [3] https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
+
+## Part II 🌸
 
 #### ▶️ Talks
 [Add to your Google Calendar](https://bit.ly/3zHW9wP)
@@ -55,22 +67,6 @@ Our first live event since the kickoff is happening on July 30th, 2021 and will 
 [Add to your Google Calendar](https://bit.ly/3BPlnLC)
 
 - 16.30 - 17.30: Social hour (gather.town)
-
-### Invited talk
-
-#### "Experience of an open source project maintainer for scikit-learn" by Olivier Grisel
-
-#### Abstract
-
-This talk will reflect on my experience as an open source project maintainer. After quickly introducing the decade-long history of the scikit-learn project, its goals and organization, I will try to identify key ingredients necessary to keep a project such as scikit-learn valuable for a wide community of users and contributors. In particular we will focus on collaboration dynamics, interactions with users, automating cross-platform packaging automated quality insurance and interactions with the wider Open Source ecosystem.
-
-#### Speaker bio
-
-Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we works as a maintainer for the Scikit-learn project [1] and occasional contributor to related projects. Olivier is also involved in teaching Deep Learning as part of MSc Data Sciences at IP Paris [2] and Machine Learning with Scikit-learn via a MOOC [3].
-
-- [1] https://scikit-learn.org/
-- [2] https://m2dsupsdlclass.github.io/lectures-labs/
-- [3] https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
 
 
 - - -
