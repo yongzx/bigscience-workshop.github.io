@@ -703,7 +703,7 @@ Kicked off the discussion
 
 
 
-# Engineering/scaling
+## Engineering/scaling
 
 
 ### Scope
@@ -718,12 +718,12 @@ Note that participating in this working group does not imply that you will have 
 
 ### Current members
 
-Sean Narenthiran, Stas Bekman, Thomas Wolf, Teven Le Scao, Morgan Funtowicz, Yozh (justheuristic), Max Ryabinin, Jean-Baptiste Cordonnier, Thijs Vogels, Akash Mehra, Antoine Bosselut, Samyam Rajbhandari, Gérard Dupont<span style="text-decoration:underline;">,</span> Minjia Zhang, guillaume Alleon, Christophe Cerisara, James Briggs, Uğur Ünal, Harshit Pandey, Urmish Thakker, Sushil Bharati, Myriam Peyrounette, Hatim Bourfoune, Hadrien de Dompsure, Kamel Guerda, Siddharth Karamcheti, Laurel Orr, Espoir Murhabazi, Thomas Wang, Luca Moschella, Francois Courteille, Kari Briski, Meriem Bendris, Mohammad Shoeybi, Bryan Catanzaro, Jared Casper, Joey Conway, Sylvain Jeaugey, Camille Parisel, Deepak Narayanan,Bertrand Cabot, Rémi Lacroix, Sampo Pyysalo, Pierre-François Lavallée, Jeff Rasley, Olatunji Ruwase, Pawan Sasanka Ammanamanchi, Vikas Raunak, M Ali Jauhar, Arun Raja, Alberto Bégué, Dimitri Lozeve, Michael Z Wang, Zenodia Charpy           
+Sean Narenthiran, Stas Bekman, Thomas Wolf, Teven Le Scao, Morgan Funtowicz, Yozh (justheuristic), Max Ryabinin, Jean-Baptiste Cordonnier, Thijs Vogels, Akash Mehra, Antoine Bosselut, Samyam Rajbhandari, Gérard Dupont, Minjia Zhang, guillaume Alleon, Christophe Cerisara, James Briggs, Uğur Ünal, Harshit Pandey, Urmish Thakker, Sushil Bharati, Myriam Peyrounette, Hatim Bourfoune, Hadrien de Dompsure, Kamel Guerda, Siddharth Karamcheti, Laurel Orr, Espoir Murhabazi, Thomas Wang, Luca Moschella, Francois Courteille, Kari Briski, Meriem Bendris, Mohammad Shoeybi, Bryan Catanzaro, Jared Casper, Joey Conway, Sylvain Jeaugey, Camille Parisel, Deepak Narayanan,Bertrand Cabot, Rémi Lacroix, Sampo Pyysalo, Pierre-François Lavallée, Jeff Rasley, Olatunji Ruwase, Pawan Sasanka Ammanamanchi, Vikas Raunak, M Ali Jauhar, Arun Raja, Alberto Bégué, Dimitri Lozeve, Michael Z Wang, Zenodia Charpy, Shaden Smith
 
 
 ### Current chair(s)
 
-Yozh (jheuristic), Max Ryabinin, Minjia Zhang
+Yozh (jheuristic), Max Ryabinin
 
 
 ### Current status
