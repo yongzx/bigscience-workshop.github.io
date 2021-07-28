@@ -1,31 +1,59 @@
-# Events 🌸
+# 🌸 Events
 
-## BigScience episode #1
+## BigScience Episode #1
 
-Our first live event is happening on July 30th, 2021 and will be co-loacted with the second ELLIS NLP workshop. You can find the program and schedule below, please note that all time slots are in CEST. If you'd like to join the talks / poster sessions please sign up [here](https://forms.gle/hVPFPBoesKgxKLV2A), Zoom and gather.town links will be sent out via email.
+Our first live event since the kickoff is happening on July 30th, 2021 and will be co-loacted with the [second ELLIS NLP workshop](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0) with a shared talk, you can find the ELLIS NLP program [here](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0). The BigScience program and schedule can be found below, please note that all time slots are in CEST. If you'd like to join the talks / poster sessions please sign up [here](https://forms.gle/hVPFPBoesKgxKLV2A), Zoom and gather.town links will be sent out via email, you can also add events to your Google calendar.
 
-### Morning sessions
+### 🌸 Part I
 
-- 8.15 - 8.45: Intro (Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience – shared talk with the first NLP workshop of ELLIS)
+#### ▶️ Talks
+[Add to your Google Calendar](https://bit.ly/3iT6BuM)
+
+- 8.15 - 8.45: Intro, Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience 
 - 8.45 - 10.00: 3-4 short talks by BigScience working groups
+  - Modeling – Stephen Bach, Victor Sanh
+  - Modeling Metadata – Timo Shick, Nora Kassner
+  - Tokenization – Benoît Sagot, Samson Tan
+
+#### ▶️ Posters
+[Add to your Google Calendar](https://bit.ly/3l168JD)
+
 - 10.00 - 10.30: Poster & breakout sessions (gather.town), with the following presentations:
-    - Data Tooling
-    - Modeling Retrieve
-    - Organization (all things BigScience)
+    - Data Tooling – TBD
+    - Modeling Retrieve – Nils Reimers
+    - Modeling Multilinguality – Vassilina Nikoulina
+    - [Meta-Group] Social Impact across Groups – Michael McKenna
 - 10:30 - 10:45: Wrapping up the posters sessions, short break
+
+#### ▶️ Invited Talk
+[Add to your Google Calendar](https://bit.ly/3f7k7tt)
+
 - 10:45 - 11:30: Invited talk: "Experience of an open source project maintainer for scikit-learn", Olivier Grisel (ML software engineer at Inria Saclay & maintainer for the Scikit-learn project)
 
-### Afternoon sessions
+### 🌸 Part II
+
+#### ▶️ Talks
+[Add to your Google Calendar](https://bit.ly/3zHW9wP)
 
 - 15.00 - 16.00: 3-4 short talks by BigScience working groups
+  - Engineering/Scaling – Max Ryabinin, Jamal Atif, Pascale Braconnot, Stéphane Requena, Jared Kasper, Samyam Rajbhandari
+  - Evaluation – Ellie Pavlick, Thomas Scialom, Dan Garrette, Oskar van der Wal
+  - Carbon footprint – Sasha Luccioni
+
+#### ▶️ Posters
+[Add to your Google Calendar](https://bit.ly/3l6tYDQ)
+
 - 16.00 - 16.30: Poster & breakout sessions (gather.town), with the following presentations:
-  - Modeling Prompt Engineering
-  - Modeling Architecture and Scaling
-  - Data Governance
-  - Data Sourcing
-  - Data Tooling
-  - Challenges in the Biomedical Domain
-  - [Meta-Group] Social Impact across Groups
+  - Modeling Prompt Engineering – Stephen Bach, Victor Sanh
+  - Modeling Architecture and Scaling – Iz Beltagy, Julien Launay
+  - Data Governance – Yacine Jernite
+  - Data Sourcing – Angie McMillan-Major
+  - Data Tooling – Colin Raffel
+  - Challenges in the Biomedical Domain – Jason Fries
+
+#### ▶️ Social | Networking
+[Add to your Google Calendar](https://bit.ly/3BPlnLC)
+
 - 16.30 - 17.30: Social hour (gather.town)
 
 ### Invited talk
