@@ -58,7 +58,7 @@ Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we 
 - 16.00 - 16.30: Poster & breakout sessions (gather.town), with the following presentations:
   - Modeling Prompt Engineering – Stephen Bach, Victor Sanh
   - Modeling Architecture and Scaling – Iz Beltagy, Julien Launay
-  - Data Governance – Yacine Jernite
+  - Data Governance – Yacine Jernite, Huu Nguyen
   - Data Sourcing – Angie McMillan-Major
   - Data Tooling – Colin Raffel
   - Challenges in the Biomedical Domain – Jason Fries
@@ -70,6 +70,7 @@ Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we 
 
 
 - - -
+<br/>
 
 ## Kickoff event
 
