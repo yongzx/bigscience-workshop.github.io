@@ -7,7 +7,7 @@ Our first live event since the kickoff is happening on July 30th, 2021 and will 
 ## Part I 🌸
 
 #### ▶️ Talks
-[Add to your Google Calendar](https://bit.ly/3iT6BuM)
+[Watch on YouTube](https://www.youtube.com/watch?v=4c8BaM-tnOk)
 
 - 8.15 - 8.45: Intro, Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience 
 - 8.45 - 10.00: 3-4 short talks by BigScience working groups
