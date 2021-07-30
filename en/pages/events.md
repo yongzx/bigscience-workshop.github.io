@@ -9,14 +9,14 @@ Our first live event since the kickoff is happening on July 30th, 2021 and will 
 #### ▶️ Talks
 [Watch on YouTube](https://www.youtube.com/watch?v=4c8BaM-tnOk)
 
-- 8.15 - 8.45: Intro, Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience 
-- 8.45 - 10.00: 3-4 short talks by BigScience working groups
+- 8.15 - 9:15: Talks by BigScience working groups
+  - Intro, Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience
   - Modeling – Stephen Bach, Victor Sanh
   - Modeling Metadata – Timo Shick, Nora Kassner
   - Tokenization – Benoît Sagot, Samson Tan
 
 #### ▶️ Posters
-[Add to your Google Calendar](https://bit.ly/3l168JD)
+[Go to gather.town](https://gather.town/app/824Zc8ICtRxSb6bS/BigScience%20Episode%201)
 
 - 10.00 - 10.30: Poster & breakout sessions (gather.town), with the following presentations:
     - Data Tooling – TBD
@@ -45,15 +45,15 @@ Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we 
 ## Part II 🌸
 
 #### ▶️ Talks
-[Add to your Google Calendar](https://bit.ly/3zHW9wP)
+[Watch on YouTube](https://www.youtube.com/watch?v=ZP1W8C14uSA)
 
-- 15.00 - 16.00: 3-4 short talks by BigScience working groups
+- 15.00 - 15:45: Talks by BigScience working groups
   - Engineering/Scaling – Max Ryabinin, Jamal Atif, Pascale Braconnot, Stéphane Requena, Jared Kasper, Samyam Rajbhandari
   - Evaluation – Ellie Pavlick, Thomas Scialom, Dan Garrette, Oskar van der Wal
   - Carbon footprint – Sasha Luccioni
 
 #### ▶️ Posters
-[Add to your Google Calendar](https://bit.ly/3l6tYDQ)
+[Go to gather.town](https://gather.town/app/824Zc8ICtRxSb6bS/BigScience%20Episode%201)
 
 - 16.00 - 16.30: Poster & breakout sessions (gather.town), with the following presentations:
   - Modeling Prompt Engineering – Stephen Bach, Victor Sanh
@@ -64,7 +64,7 @@ Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we 
   - Challenges in the Biomedical Domain – Jason Fries
 
 #### ▶️ Social | Networking
-[Add to your Google Calendar](https://bit.ly/3BPlnLC)
+[Go to gather.town](https://gather.town/app/824Zc8ICtRxSb6bS/BigScience%20Episode%201)
 
 - 16.30 - 17.30: Social hour (gather.town)
 
