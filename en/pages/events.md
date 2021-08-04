@@ -6,27 +6,23 @@ Our first live event since the kickoff is happening on July 30th, 2021 and will 
 
 ## Part I 🌸
 
-#### ▶️ Talks
-[Watch on YouTube](https://www.youtube.com/watch?v=4c8BaM-tnOk)
+#### ▶️ Talks [[YouTube]](https://www.youtube.com/watch?v=4c8BaM-tnOk)
 
 - 8.15 - 9:15: Talks by BigScience working groups
-  - Intro, Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience
-  - Modeling – Stephen Bach, Victor Sanh
-  - Modeling Metadata – Timo Shick, Nora Kassner
-  - Tokenization – Benoît Sagot, Samson Tan
+  - [BigScience](https://www.youtube.com/watch?v=4c8BaM-tnOk) – Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience
+  - [Modeling](https://www.youtube.com/watch?v=4c8BaM-tnOk&t=1534s) – Stephen Bach, Victor Sanh
+  - [Modeling Metadata](https://youtu.be/4c8BaM-tnOk?t=1806) – Timo Shick, Nora Kassner
+  - [Tokenization](https://www.youtube.com/watch?v=4c8BaM-tnOk&t=2367s) – Benoît Sagot, Samson Tan
 
 #### ▶️ Posters
-[Go to gather.town](https://gather.town/app/824Zc8ICtRxSb6bS/BigScience%20Episode%201)
 
 - 10.00 - 10.30: Poster & breakout sessions (gather.town), with the following presentations:
-    - Data Tooling – TBD
-    - Modeling Retrieve – Nils Reimers
-    - Modeling Multilinguality – Vassilina Nikoulina
-    - [Meta-Group] Social Impact across Groups – Michael McKenna
-- 10:30 - 10:45: Wrapping up the posters sessions, short break
+    - [Data Tooling](https://docs.google.com/presentation/d/1ZEDeZtXnT3sOQ3SWPGzXaOvvR2G6K5Lj_82zXm2lOLo/edit?usp=sharing) – TBD
+    - [Modeling Retrieve](https://docs.google.com/presentation/d/1s5_XKoywYPvoxirNOOt3Q19ystQ57Fh1SWNgdHXU5Cw/edit?usp=sharing) – Nils Reimers
+    - [Modeling Multilinguality](https://docs.google.com/presentation/d/10rlg5cUMKvooa5lOjs67vULu-K90mfh1QG2IyCWiTTg/edit?usp=sharing) – Vassilina Nikoulina
+    - [[Meta-Group] Social Impact across Groups](https://docs.google.com/presentation/d/18nwFl1TMyfQE8VqGzqLFmIdoe8Ty1Asr12S9R9ZuMFQ/edit#slide=id.p) – Michael McKenna, Karën Fort
 
-#### ▶️ Invited Talk
-[Add to your Google Calendar](https://bit.ly/3f7k7tt)
+#### ▶️ Invited Talk [[YouTube]](https://youtu.be/pet05pDXlnU)
 
 - 10:45 - 11:30: Invited talk: "Experience of an open source project maintainer for scikit-learn", Olivier Grisel (ML software engineer at Inria Saclay & maintainer for the Scikit-learn project)
 
@@ -44,27 +40,24 @@ Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we 
 
 ## Part II 🌸
 
-#### ▶️ Talks
-[Watch on YouTube](https://www.youtube.com/watch?v=ZP1W8C14uSA)
+#### ▶️ Talks [[YouTube]](https://www.youtube.com/watch?v=ZP1W8C14uSA)
 
 - 15.00 - 15:45: Talks by BigScience working groups
-  - Engineering/Scaling – Max Ryabinin, Jamal Atif, Pascale Braconnot, Stéphane Requena, Jared Kasper, Samyam Rajbhandari
-  - Evaluation – Ellie Pavlick, Thomas Scialom, Dan Garrette, Oskar van der Wal
-  - Carbon footprint – Sasha Luccioni
+  - [Engineering/Scaling](https://youtu.be/ZP1W8C14uSA) – Max Ryabinin, Jamal Atif, Pascale Braconnot, Stéphane Requena, Jared Kasper, Samyam Rajbhandari
+  - [Evaluation](https://youtu.be/ZP1W8C14uSA?t=875) – Ellie Pavlick, Thomas Scialom, Dan Garrette, Oskar van der Wal
+  - [Carbon footprint](https://youtu.be/ZP1W8C14uSA?t=1936) – Sasha Luccioni
 
 #### ▶️ Posters
-[Go to gather.town](https://gather.town/app/824Zc8ICtRxSb6bS/BigScience%20Episode%201)
 
 - 16.00 - 16.30: Poster & breakout sessions (gather.town), with the following presentations:
-  - Modeling Prompt Engineering – Stephen Bach, Victor Sanh
-  - Modeling Architecture and Scaling – Iz Beltagy, Julien Launay
-  - Data Governance – Yacine Jernite, Huu Nguyen
-  - Data Sourcing – Angie McMillan-Major
-  - Data Tooling – Colin Raffel
-  - Challenges in the Biomedical Domain – Jason Fries
+  - [Modeling Prompt Engineering](https://docs.google.com/presentation/d/1jj2MdxaJhmwckoN_d3_fQhyU0Qk5xaPALx2k4UYjA3Y/edit#slide=id.p) – Stephen Bach, Victor Sanh
+  - [Modeling Architecture and Scaling](https://docs.google.com/presentation/d/1Y7ATc8G80gBMls84-MQo2NDy9foV_xC5546Z8h6DrF4/edit#slide=id.ge65c9f192a_0_100) – Iz Beltagy, Julien Launay
+  - [Data Governance](https://docs.google.com/presentation/d/1rq71VuDnNrmeJw_QBZ1OHe9wncSDr64fMazEe6dCO14/edit#slide=id.ge68143155e_0_0) – Yacine Jernite, Huu Nguyen
+  - [Data Sourcing](https://docs.google.com/presentation/d/1wyOvh9hG3ViK6TzkCVL6g0LaRHBwlab2jZNdWiWW1Kg/edit#slide=id.p) – Angie McMillan-Major, Pedro Javier Ortiz Suárez
+  - [Data Tooling](https://docs.google.com/presentation/d/1ZEDeZtXnT3sOQ3SWPGzXaOvvR2G6K5Lj_82zXm2lOLo/edit?usp=sharing) – Colin Raffel
+  - [Challenges in the Biomedical Domain](https://docs.google.com/presentation/d/1RsCTZoOuUHtXl956P0DigJyRlBsxl8Oz3hLpLsSm5Os/edit?usp=sharing) – Jason Fries
 
 #### ▶️ Social | Networking
-[Go to gather.town](https://gather.town/app/824Zc8ICtRxSb6bS/BigScience%20Episode%201)
 
 - 16.30 - 17.30: Social hour (gather.town)
 
