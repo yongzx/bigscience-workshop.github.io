@@ -11,8 +11,8 @@ Our first live event since the kickoff is happening on July 30th, 2021 and will 
 - 8.15 - 9:15: Talks by BigScience working groups
   - [BigScience](https://www.youtube.com/watch?v=4c8BaM-tnOk) – Thomas Wolf, Co-Founder and CSO Hugging Face, BigScience
   - [Modeling](https://www.youtube.com/watch?v=4c8BaM-tnOk&t=1534s) – Stephen Bach, Victor Sanh
-  - [Modeling Metadata](https://youtu.be/4c8BaM-tnOk?t=1806) – Timo Shick, Nora Kassner
-  - [Tokenization](https://www.youtube.com/watch?v=4c8BaM-tnOk&t=2367s) – Benoît Sagot, Samson Tan
+  - [Modeling Metadata](https://youtu.be/4c8BaM-tnOk?t=1806) – Timo Schick, Nora Kassner, Manan Dey & Shanya Sharma
+  - [Tokenization](https://www.youtube.com/watch?v=4c8BaM-tnOk&t=2367s) – Benoît Sagot, Samson Tan, Sabrina J. Mielke, Roman Castagné
 
 #### ▶️ Posters
 
@@ -52,7 +52,7 @@ Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we 
 - 16.00 - 16.30: Poster & breakout sessions (gather.town), with the following presentations:
   - [Modeling Prompt Engineering](https://docs.google.com/presentation/d/1jj2MdxaJhmwckoN_d3_fQhyU0Qk5xaPALx2k4UYjA3Y/edit#slide=id.p) – Stephen Bach, Victor Sanh
   - [Modeling Architecture and Scaling](https://docs.google.com/presentation/d/1Y7ATc8G80gBMls84-MQo2NDy9foV_xC5546Z8h6DrF4/edit#slide=id.ge65c9f192a_0_100) – Iz Beltagy, Julien Launay
-  - [Data Governance](https://docs.google.com/presentation/d/1rq71VuDnNrmeJw_QBZ1OHe9wncSDr64fMazEe6dCO14/edit#slide=id.ge68143155e_0_0) – Yacine Jernite, Huu Nguyen
+  - [Data Governance](https://docs.google.com/presentation/d/1rq71VuDnNrmeJw_QBZ1OHe9wncSDr64fMazEe6dCO14/edit#slide=id.ge68143155e_0_0) – Yacine Jernite, Huu Nguyen, Margaret Mitchell
   - [Data Sourcing](https://docs.google.com/presentation/d/1wyOvh9hG3ViK6TzkCVL6g0LaRHBwlab2jZNdWiWW1Kg/edit#slide=id.p) – Angie McMillan-Major, Pedro Javier Ortiz Suárez
   - [Data Tooling](https://docs.google.com/presentation/d/1ZEDeZtXnT3sOQ3SWPGzXaOvvR2G6K5Lj_82zXm2lOLo/edit?usp=sharing) – Colin Raffel
   - [Challenges in the Biomedical Domain](https://docs.google.com/presentation/d/1RsCTZoOuUHtXl956P0DigJyRlBsxl8Oz3hLpLsSm5Os/edit?usp=sharing) – Jason Fries

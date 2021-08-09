@@ -25,7 +25,7 @@ The goal of the collaborative tasks is in particular to collaboratively create a
   - [Data Tooling: from Data Sources to Training Dataset](#data-tooling-from-data-sources-to-training-dataset) - Chairs: Colin Raffel, Albert Villanova, Sampo Pyysalo, Filip Ginter
 - [Modeling approach](#modeling-approach) - Area-Chairs: Victor Sanh, Stephen Bach
   - [Modeling: Architecture and Scaling](#modeling-architecture-and-scaling) - Chairs: Julien Launay, Iz Beltagy
-  - [Modeling: Metadata](#modeling-metadata) - Chairs: Timo Shick, Nora Kassner
+  - [Modeling: Metadata](#modeling-metadata) - Chairs: Timo Schick, Nora Kassner
   - [Modeling: Multilinguality](#modeling-multilinguality) - Chairs: Vassilina Nikoulina, Hady Elsahar
   - [Modeling: Prompt engineering](#modeling-prompt-engineering)
   - [Modeling: Retrieve](#modeling-retrieve) - Chair: Nils Reimers
@@ -285,7 +285,7 @@ We organized the modeling approach working group into task forces (or sub workin
 - [Modeling: Architecture and Scaling](#modeling-architecture-and-scaling) - Chairs: Julien Launay, Iz Beltagy
 Scope: Comparing and deciding which Transformer architecture would be best. Axis of choices include encoder-decoder/decoder-only/prefix-LM, long range attentions, etc. We are also interested in estimating the best model, data and compute size configuration before scaling to a very large model so that we make the best use of the computational resources.
 
-- [Modeling: Metadata](#modeling-metadata) - Chairs: Timo Shick, Nora Kassner
+- [Modeling: Metadata](#modeling-metadata) - Chairs: Timo Schick, Nora Kassner
 Scope: Metadata gives information about the situation in which a text was written and is a source of signal we want to squeeze out to condition text on available metadata as an additional source of context. 
 
 - [Modeling: Multilinguality](#modeling-multilinguality) - Chairs: Vassilina Nikoulina, Hady Elsahar
