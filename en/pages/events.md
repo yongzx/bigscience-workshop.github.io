@@ -1,6 +1,10 @@
 # Events 🌸
 
-## BigScience Episode #1
+## BigScience Episode #2
+
+Save the date! BigScience Episode 2 is co-located with [INLG 2021](https://inlg2021.github.io/) and is happening on September 20th, 2021. We'll have a set of technical talks by BigScience working groups as well as several invited talks. The program will be announced soon. Register [here](https://forms.gle/QvoY5riQKBxt1f7LA) for the event.
+
+## BigScience Episode 1
 
 Our first live event since the kickoff is happening on July 30th, 2021 and will be co-loacted with the [second ELLIS NLP workshop](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0) with a shared talk, you can find the ELLIS NLP program [here](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0). The BigScience program and schedule can be found below, please note that all time slots are in CEST. If you'd like to join the talks / poster sessions please sign up [here](https://forms.gle/hVPFPBoesKgxKLV2A), Zoom and gather.town links will be sent out via email, you can also add events to your Google calendar.
 
