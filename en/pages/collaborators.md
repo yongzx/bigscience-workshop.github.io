@@ -333,8 +333,7 @@ July 2021
 - Miles Brundage, OpenAI
 - Minh Quang Pham, LISN / CNRS, Université Paris-Saclay, Systran
 - Minjia Zhang, Microsoft
-- Miruna Adriana Clinciu, University of Edinburgh and Heriot-Watt University, UK
-- Miruna-Adriana Clinciu, Heriot-Watt University
+- Miruna Clinciu, Edinburgh Centre for Robotics
 - Mohamed Ahmed, N/A
 - Mohamed Ben Hamdoune, Zifo RnD Solutions
 - Mohammad Ali Jauhar, Aligarh Muslim University

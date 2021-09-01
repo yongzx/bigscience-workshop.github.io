@@ -11,41 +11,6 @@ The goal of the collaborative tasks is in particular to collaboratively create a
 * **Software tools** created to complete the shared tasks, e.g. dataset filtering, model off-loading, etc (under very permissive licence, e.g. Apache2 => to be by the organization committee in charge of this artifact)
 * Extensive **documentation** of the evaluation results, protocols, approach, datasets, and tools developed in the course of the project for future reconduction
 
-
-## Table of Content
-
-
-- [Overview: how to participate, what roles](#overview-how-to-participate-what-roles)
-  - [More details on the role of the co-chairs](#more-details-on-the-role-of-the-co-chairs)
-- [Working Groups](#working-groups) (Note that Chairs are evolving)
-- [Workshop organization](#workshop-organization) - Chairs:  Matthias Gallé, Angela Fan, Suzana Ilić
-- [Dataset creation](#dataset-creation) - Area-Chair: Yacine Jernite
-  - [Data Governance and Archival Strategies](#data-governance-and-archival-strategies) - Chairs: Yacine Jernite, Huu Nguyen, Meg Mitchell
-  - [Data Sourcing and Representativeness](#data-sourcing-and-representativeness) - Chairs: Angie McMillan-Major, Pedro Ortiz Suárez, Zeerak Waseem
-  - [Data Tooling: from Data Sources to Training Dataset](#data-tooling-from-data-sources-to-training-dataset) - Chairs: Colin Raffel, Albert Villanova, Sampo Pyysalo, Filip Ginter
-- [Modeling approach](#modeling-approach) - Area-Chairs: Victor Sanh, Stephen Bach
-  - [Modeling: Architecture and Scaling](#modeling-architecture-and-scaling) - Chairs: Julien Launay, Iz Beltagy
-  - [Modeling: Metadata](#modeling-metadata) - Chairs: Timo Schick, Nora Kassner
-  - [Modeling: Multilinguality](#modeling-multilinguality) - Chairs: Vassilina Nikoulina, Hady Elsahar
-  - [Modeling: Prompt engineering](#modeling-prompt-engineering)
-  - [Modeling: Retrieve](#modeling-retrieve) - Chair: Nils Reimers
-- [Tokenization](#tokenization) - Chairs: Benoît Sagot, Samson Tan
-- [Evaluation](#evaluation) - Chairs: Aurélie Névéol, Dan Garrette, Ellie Pavlick, Marine Carpuat, Thomas Scialom, Sebastian Gehrmann, Verena Rieser
-  - [Evaluation: Extrinsic Evaluation](#evaluation-extrinsic-evaluation) - Chairs: Thomas Scialom, Verena Rieser, Ehud Reiter
-  - [Evaluation: Intrinsic Evaluation](#evaluation-intrinsic-evaluation) - Chairs: Sebastian Gehrmann
-  - [Evaluation: Few-Shot Generalization](#evaluation-few-shot-generalization) - Chairs: Ellie Pavlick
-  - [Evaluation: Bias, Fairness, and Social Impact](#evaluation-bias-fairness-and-social-impact) - Chairs: Aurelie Neveol
-  - [Evaluation: Multilinguality](#evaluation-multilinguality) - Chairs: Dan Garrette & Marine Carpuat
-- [Interpretability and interaction/visualization](#interpretability-and-interactionvisualization) - Chair: Hendrik Strobelt, Ryan Teehan
-- [Engineering/scaling](#engineeringscaling) - Chairs: Yozh (jheuristic), Max Ryabinin
-- [Collaborations with education and research communities](#collaborations-with-education-and-research-communities) - Chairs: Dieuwke Hupkes, François Yvon
-- [Carbon footprint](#carbon-footprint) - Chairs: Anne-Laure Ligozat, Canwen Xu, Sasha Luccioni
-- [[Meta-Group] Social Impact Across Groups](#meta-group-social-impact-across-groups) - Chair: Karen Fort, Michael McKenna
-- [Sharing and accessibility of model and dataset](#sharing-and-accessibility-of-model-and-dataset) - Chair: Thomas Wolf
-- [Challenges in the biomedical domain](#challenges-in-the-biomedical-domain) - Chairs: Antoine Neuraz, Jason Fries
-
-
-
 ## Overview: how to participate, what roles
 
 BigScience is a research workshop and is open to researchers, i.e. people affiliated with a research organization (in academia or industry) and whose day work is for instance (at least in part) to publish papers in peer-review venues, as well as to people whose technical and professional expertise bears relevance to the social aspects of the project.
@@ -94,11 +59,11 @@ For the **selection process**, we are trying to have something quite bottom-up k
 * in all this process goodwill is assumed and there should be an effort to listen to all arguments but the pragmatic success of the project is also considered more important than specific people interest (in other words “wanting to be a chair does not guarantee that you will be a chair and there will be a certain degree of arbitrariness”, I’m sorry in advance).
 
 
-## Working Groups
+# Working Groups
 
 Find a list of all collaborators [here](collaborators.md).
 
-# Workshop organization
+## Workshop organization
 
 ### Scope
 
@@ -147,7 +112,7 @@ The Dataset Creation effort is concerned with the creation of a large multilingu
 
 Yacine Jernite
 
-# Data Governance and Archival Strategies
+## Data Governance and Archival Strategies
 
 ### Scope
 
@@ -177,7 +142,7 @@ Huu Nguyen, Yacine Jernite, Meg Mitchell
 Scoping out further collaborative tasks within the group.
 
 
-# Data Sourcing and Representativeness
+## Data Sourcing and Representativeness
 
 
 ### Scope
@@ -212,7 +177,7 @@ Angie McMillan-Major, Pedro Ortiz Suárez, Zeerak Waseem
 Scoping out further collaborative tasks within the group.
 
 
-# Data Tooling: from Data Sources to Training Dataset
+## Data Tooling: from Data Sources to Training Dataset
 
 
 ### Scope
@@ -239,16 +204,12 @@ Colin Raffel, Albert Villanova, Sampo Pyysalo, Filip Ginter
 
 Scoping out further collaborative tasks within the group.
 
-
-
-# Modeling approach
+## Modeling approach
 
 
 ### Scope
 
 The high level goal is to answer in natural language any prompted query expressed in natural language in a 0-shot manner:
-
-
 
 * (a) Defining the prompted data creation and training procedure to make prompting less “accidental” than in GPT3
 * (b) Looking at untapped sources of signal such as metadata and context and potential tools (such as retrieval) to include these signals
@@ -299,7 +260,7 @@ Scope: Inputs alone often don’t contain enough information and providing addit
 
 
 
-# Modeling: Architecture and Scaling
+## Modeling: Architecture and Scaling
 
 
 ### Scope
@@ -328,7 +289,7 @@ Merged Architecture Design and Scaling Laws into one group, Architecture and Sca
 
 
 
-# Modeling: Metadata
+## Modeling: Metadata
 
 
 ### Scope
@@ -357,7 +318,7 @@ Recently created
 
 
 
-# Modeling: Multilinguality
+## Modeling: Multilinguality
 
 
 ### Scope
@@ -386,7 +347,7 @@ Recently created
 
 
 
-# Modeling: Prompt engineering
+## Modeling: Prompt engineering
 
 
 ### Scope
@@ -415,7 +376,7 @@ Recently created
 
 
 
-# Modeling: Retrieve
+## Modeling: Retrieve
 
 
 ### Scope
@@ -430,7 +391,7 @@ Folder on the google drive: [Modeling documents](https://drive.google.com/drive/
 
 ### Current members
 
-Thomas Wolf, Victor Sanh, Lysandre Debut, Angela Fan, Teven Le Scao, Sasha Rush, Yacine Jernite, Colin Raffel, Patrick Lewis, Matthias Gallé, Minh Quang Pham, M Saiful Bari, Timo Schick, Nils Reimers, Suzana Ilic, Stephen Bach, Nicola De Cao, Marius Mosbach, Thomas Wang, Eliza Szczechla, Madison May, Jan-Christoph Kalo, Urmish Thakker, Siddharth Karamcheti, Tasnim Mohiuddin, Vishakha Sharma, Ruochen Zhang, Devamanyu Hazarika, Nickil Maveli, Iacer Calixto, Nora Kassner, Jonathan Chang, Taewoon Kim, Vikas Raunak, Animesh Prasad, Dimitri Lozeve, Jakub Zavrel, Zhiqing Sun, Manan Dey, Sandip Patil
+Thomas Wolf, Victor Sanh, Lysandre Debut, Angela Fan, Teven Le Scao, Sasha Rush, Yacine Jernite, Colin Raffel, Patrick Lewis, Matthias Gallé, Minh Quang Pham, M Saiful Bari, Timo Schick, Nils Reimers, Suzana Ilic, Stephen Bach, Nicola De Cao, Marius Mosbach, Thomas Wang, Eliza Szczechla, Madison May, Jan-Christoph Kalo, Urmish Thakker, Siddharth Karamcheti, Tasnim Mohiuddin, Vishakha Sharma, Ruochen Zhang, Devamanyu Hazarika, Nickil Maveli, Iacer Calixto, Jonathan Chang, Taewoon Kim, Vikas Raunak, Animesh Prasad, Dimitri Lozeve, Jakub Zavrel, Zhiqing Sun, Manan Dey, Sandip Patil
 
 
 ### Current chair(s)
@@ -444,7 +405,7 @@ Recently created
 
 
 
-# Tokenization
+## Tokenization
 
 
 ### Scope
@@ -479,7 +440,7 @@ Kicked off the discussion
 
 
 
-# Evaluation
+## Evaluation
 
 
 ### Scope
@@ -513,7 +474,7 @@ Our goal is to filter this list down to a small, interpretable set of evaluation
 
 
 
-# Evaluation: Extrinsic Evaluation
+## Evaluation: Extrinsic Evaluation
 
 
 ### Scope
@@ -543,7 +504,7 @@ Thomas Scialom, Verena Rieser, Ehud Reiter
 Recently created
 
 
-# Evaluation: Intrinsic Evaluation
+## Evaluation: Intrinsic Evaluation
 
 
 ### Scope
@@ -574,7 +535,7 @@ Recently created
 
 
 
-# Evaluation: Few-Shot Generalization
+## Evaluation: Few-Shot Generalization
 
 
 ### Scope
@@ -605,7 +566,7 @@ We are working on populating the shared Evaluation WG spreadsheet with datasets 
 
 
 
-# Evaluation: Bias, Fairness, and Social Impact
+## Evaluation: Bias, Fairness, and Social Impact
 
 
 ### Scope
@@ -636,7 +597,7 @@ Recently created
 
 
 
-# Evaluation: Multilinguality
+## Evaluation: Multilinguality
 
 
 ### Scope
@@ -666,7 +627,7 @@ Marine Carpuat, Dan Garrette
 Recently created
 
 
-# Interpretability and interaction/visualization
+## Interpretability and interaction/visualization
 
 
 ### Scope
@@ -689,7 +650,7 @@ Not ressource at the moment
 
 ### Current members
 
-Hendrik Strobelt, Terrell Ibanez, Pierre Colombo, Mohamed Ahmed, Ryan Teehan, Ioana Baldini, Yonatan Belinkov, Miruna Clinciu, Eliza Szczechla, Patrick Fernandes, Zaid Alyafeai, Gunjan Chhablani, Mohit Bansal, Debajyoti Datta, Sebastian Gehrmann, Diwakar Mahajan, Luca Moschella, Andrea Santilli, Uğur Ünal, Abheesht Sharma, Urmish Thakker, Sushil Bharati, Trishala Neeraj, Jaap Jumelet, Shannon Shen, Nickil Maveli, Michael McKenna, Matteo Manica, Sara Meftah, Sadid A. Hasan, Taewoon Kim, Satviki Pathak, James Wexler, Rishi Bommasani, Nora Kassner, Manan Dey, Germán Kruszewski, Gabriele Sarti, Vinay Prabhu, Maraim Masoud, Emily Reif, Luciana Benotti, Tolga Bolukbasi, Max Huang
+Hendrik Strobelt, Terrell Ibanez, Pierre Colombo, Mohamed Ahmed, Ryan Teehan, Ioana Baldini, Yonatan Belinkov, Miruna Clinciu, Eliza Szczechla, Patrick Fernandes, Gunjan Chhablani, Mohit Bansal, Debajyoti Datta, Sebastian Gehrmann, Diwakar Mahajan, Luca Moschella, Andrea Santilli, Uğur Ünal, Abheesht Sharma, Urmish Thakker, Sushil Bharati, Trishala Neeraj, Jaap Jumelet, Shannon Shen, Nickil Maveli, Michael McKenna, Matteo Manica, Sara Meftah, Sadid A. Hasan, Taewoon Kim, Satviki Pathak, James Wexler, Rishi Bommasani, Nora Kassner, Manan Dey, Germán Kruszewski, Gabriele Sarti, Vinay Prabhu, Maraim Masoud, Emily Reif, Luciana Benotti, Tolga Bolukbasi, Max Huang
 
 
 ### Current chair(s)
@@ -730,7 +691,7 @@ Yozh (jheuristic), Max Ryabinin
 
 
 
-# Collaborations with education and research communities
+## Collaborations with education and research communities
 
 
 ### Scope
@@ -750,7 +711,7 @@ Also it seems important to make sure we don’t do some unreflected choices whic
 
 ### Current members
 
-Thomas Wolf, Dieuwke Hupkes, Yozh (jheuristic), Omar Sanseviero, Peter Bloem, Manan Dey, Nora Kassner, Andrea Santilli, Maraim Masoud, David Stap, Madhulika Srikumar, Maxime Amblard, Salomey Osei, Ksenia Shkaruta, Yonatan Belinkov
+Thomas Wolf, Dieuwke Hupkes, Yozh (jheuristic), Omar Sanseviero, Peter Bloem, Manan Dey, Andrea Santilli, Maraim Masoud, David Stap, Madhulika Srikumar, Maxime Amblard, Salomey Osei, Ksenia Shkaruta, Yonatan Belinkov
 
 
 ### Current chair(s)
@@ -762,7 +723,7 @@ Dieuwke Hupkes, Yozh (jheuristic), François Yvon
 
 
 
-# Carbon footprint
+## Carbon footprint
 
 
 ### Scope
@@ -792,7 +753,7 @@ Anne-Laure Ligozat, Canwen Xu, Sasha Luccioni
 
 
 
-# [Meta-Group] Social Impact Across Groups
+## [Meta-Group] Social Impact Across Groups
 
 
 ### Scope
@@ -812,14 +773,14 @@ Yacine Jernite, Thomas Wolf, Samson Tan, Omar Sanseviero, Peter Bloem, Karen For
 
 ### Current chair(s)
 
-Karen Fort, Michael McKenna
+Karen Fort, Michael McKenna, Margot Mieske
 
 
 ### Current status
 
 
 
-# Sharing and accessibility of model and dataset
+## Sharing and accessibility of model and dataset
 
 
 ### Scope
@@ -843,7 +804,7 @@ Thomas Wolf - Happy to welcome co-chairs :)
 ### Current status
 
 
-# Challenges in the biomedical domain
+## Challenges in the biomedical domain
 
 
 ### Scope
