@@ -10,7 +10,7 @@ We'll have a set of technical talks by BigScience working groups as well as seve
 
 Our first live event since the kickoff is happening on July 30th, 2021 and will be co-loacted with the [second ELLIS NLP workshop](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0) with a shared talk, you can find the ELLIS NLP program [here](https://sites.google.com/view/ellis-nlp2021-2nd/program?authuser=0). The BigScience program and schedule can be found below, please note that all time slots are in CEST. If you'd like to join the talks / poster sessions please sign up [here](https://forms.gle/hVPFPBoesKgxKLV2A), Zoom and gather.town links will be sent out via email, you can also add events to your Google calendar.
 
-## Part I 🌸
+### Part I 🌸
 
 #### ▶️ Talks [[YouTube]](https://www.youtube.com/watch?v=4c8BaM-tnOk)
 
@@ -44,7 +44,7 @@ Olivier Grisel is a Machine Learning software engineer at Inria Saclay where we 
 - [2] https://m2dsupsdlclass.github.io/lectures-labs/
 - [3] https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
 
-## Part II 🌸
+### Part II 🌸
 
 #### ▶️ Talks [[YouTube]](https://www.youtube.com/watch?v=ZP1W8C14uSA)
 
