@@ -2,7 +2,9 @@
 
 ## BigScience Episode #2
 
-Save the date! BigScience Episode 2 is co-located with [INLG 2021](https://inlg2021.github.io/) and is happening on September 20th, 2021. We'll have a set of technical talks by BigScience working groups as well as several invited talks. The program will be announced soon. Register [here](https://forms.gle/QvoY5riQKBxt1f7LA) for the event.
+Save the date! BigScience Episode 2 is co-located with [INLG 2021](https://inlg2021.github.io/) and is happening on September 20th, 2021. Attending the BigScience Workshop at INLG is free. Attendees who wish to attend the INLG conference should register on the [INLG website](https://inlg2021.github.io/pages/registration.html#registration).
+
+We'll have a set of technical talks by BigScience working groups as well as several invited talks. The program will be announced soon. Register [here](https://forms.gle/QvoY5riQKBxt1f7LA) for the event.
 
 ## BigScience Episode 1
 
