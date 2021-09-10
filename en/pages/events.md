@@ -2,9 +2,37 @@
 
 ## BigScience Episode 2
 
-Save the date! BigScience Episode 2 is co-located with [INLG 2021](https://inlg2021.github.io/) and is happening on September 20th, 2021. Attending the BigScience Workshop at INLG is free. Attendees who wish to attend the INLG conference should register on the [INLG website](https://inlg2021.github.io/pages/registration.html#registration).
+Save the date! BigScience Episode 2 is co-located with [INLG 2021](https://inlg2021.github.io/) and is happening on September 20th, 2021. Attending the BigScience Workshop at INLG is free. Register for the event [here](https://forms.gle/QvoY5riQKBxt1f7LA). Zoom and gather.town links as well as Google Calendar invites will be sent out via email.
 
-We'll have a set of technical talks by BigScience working groups as well as several invited talks. The program will be announced soon. Register [here](https://forms.gle/QvoY5riQKBxt1f7LA) for the event.
+Attendees who wish to attend the INLG conference should register on the [INLG website](https://inlg2021.github.io/pages/registration.html#registration).
+
+### **Program**
+
+All time slots in CEST
+
+**1:00 - 1:30pm** - Invited Talk: Jade Abbott and Kat Siminyu (Masakhane)
+
+**1:45 - 2:30 pm** - Short talks from BigScience Working Groups 
+
+- Data Governance
+- Evaluation
+- Carbon Footprint
+
+**2:30 - 3:00 pm** - Invited Talk: Kyunghyun Cho, Jihyung Moon and Sungjoon Park (KLUE)
+
+**3:00 - 3:30 pm** - Coffee Break, Social, and Q&A with Masakhane and KLUE in gather.town
+
+**3:30 - 4:00 pm** - BigScience Technical Talk: Iz Beltagy and Julien Launay, Architecture and Scaling
+
+**4:00 - 4:30 pm** - BigScience Technical Talk:  Stephen Bach and Victor Sanh, Prompt Engineering
+
+**4:30 - 5:00** - Percy Liang, Stanford Center for Research on Foundation Models
+
+**5:00 - 5:30** pm - Stella Biderman, EleutherAI
+
+**5:30 - 6:30** pm - Q&A and Social with Percy Liang, Stella Biderman, and the BigScience working group chairs in gather.town
+
+Register for the event [here](https://forms.gle/QvoY5riQKBxt1f7LA).
 
 ## BigScience Episode 1
 
